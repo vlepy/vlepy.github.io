@@ -1,0 +1,8 @@
+{
+  "date": "2018-12-06T01:41:00.000Z",
+  "excerpt": "Just some random pics that seem ok.",
+  "html": "<p><a href=\"/assets/images/4.jpg\"><img src=\"/assets/images/4rs.jpg\" width=\"400\"></a> <a href=\"/assets/images/3.jpg\"><img src=\"/assets/images/3rs.jpg\" width=\"400\"></a></p>\n<p>\n<a href=\"/assets/images/2.jpg\"><img src=\"/assets/images/2s.jpg\" width=\"400\"></a> <a href=\"/assets/images/1.jpg\"><img src=\"/assets/images/1s.jpg\" width=\"400\"></a>",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "4 Pics"
+}

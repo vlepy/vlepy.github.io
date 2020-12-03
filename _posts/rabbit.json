@@ -1,0 +1,8 @@
+{
+  "date": "2018-11-06T13:30:00.000Z",
+  "excerpt": "SVG art",
+  "html": "<object data=\"/assets/images/chubby_bunny.svg\" type=\"image/svg+xml\">\n  <img src=\"/assets/images/chubby_bunny.png\" />\n</object>",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Chubby Bunny"
+}

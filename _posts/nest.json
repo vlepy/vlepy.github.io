@@ -1,0 +1,8 @@
+{
+  "date": "2018-12-09T22:10:00.000Z",
+  "excerpt": "A picture",
+  "html": "<p><a href=\"/assets/images/nest.png\"><img src=\"/assets/images/nest_s.jpg\" width=\"600\"></a></p>\n<p>Just a wasp nest I've neutralized.</p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Wasp nest"
+}
