@@ -3,7 +3,7 @@
   <title>vlepy</title>
   <description>Cognoscetis veritatem, et veritas liberabit vos.</description>
   <link href="https://vlepy.github.io"/>
-  <updated>2021-04-09T18:33:00+02:00</updated>
+  <updated>2021-04-15T02:10:00+02:00</updated>
   <author>
     <email>mir.lesniak@gmail.com</email>
   </author>
@@ -1013,6 +1013,18 @@ so i can hold you in my arms again&lt;/p&gt;
 &lt;/a&gt;
 &lt;p&gt;Print from 1986 by The National Releasing Institute&lt;/p&gt;&lt;p&gt;
 Translator: Józef Bielawski&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Debian 11 and Gnome 3</title>
+    <link href="https://vlepy.github.io/2021/04/15/dg.html"/>
+    <updated>2021-04-15T02:10:00+02:00</updated>
+    <id>https://vlepy.github.io/2021/04/15/dg.html</id>
+    <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/dg.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/dg.png&quot; width=&quot;600&quot;&gt;
+&lt;/a&gt;
+&lt;p&gt;&amp;lt;3&lt;/p&gt;
 </content>
   </entry>
 </feed>

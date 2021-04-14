@@ -1,0 +1,8 @@
+{
+  "date": "2021-04-15T00:10:00.000Z",
+  "excerpt": "Beuty and a beast",
+  "html": "<a href=\"/assets/images/dg.png\">\n  <img src=\"/assets/images/dg.png\" width=\"600\">\n</a>\n<p>&lt;3</p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Debian 11 and Gnome 3"
+}
