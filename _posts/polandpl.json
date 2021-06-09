@@ -4,5 +4,5 @@
   "html": "<p>Tysiąc lat Polski<p>\nTysiąc lat wojny<p>\nOddani Bogu<p>\nPo ostatnie tchnienie</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
-  "title": "Poland (in Polish)"
+  "title": "Polska"
 }
