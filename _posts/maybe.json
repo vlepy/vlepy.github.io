@@ -1,7 +1,7 @@
 {
   "date": "2021-06-15T14:35:00.000Z",
   "excerpt": "Dedicated to Alexandra",
-  "html": "<p>we'll meet on endless fields<p>\nrich in grains<p>\nwhere clear brooks flow<p>\nthat we can always drink from</p>\n",
+  "html": "<p>we'll meet on endless fields<p>\nrich in grains<p>\nwhere clear brooks flow<p>\nwe can always drink from</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Maybe"
