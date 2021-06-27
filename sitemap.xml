@@ -97,10 +97,10 @@
     <loc>https://vlepy.github.io/2019/03/10/linux.html</loc>
   </url>
   <url>
-    <loc>https://vlepy.github.io/2018/12/28/banana.html</loc>
+    <loc>https://vlepy.github.io/2018/12/25/parents.html</loc>
   </url>
   <url>
-    <loc>https://vlepy.github.io/2018/12/25/parents.html</loc>
+    <loc>https://vlepy.github.io/2018/12/28/banana.html</loc>
   </url>
   <url>
     <loc>https://vlepy.github.io/2018/12/16/horsie.html</loc>
@@ -118,9 +118,6 @@
     <loc>https://vlepy.github.io/2018/12/11/qt.html</loc>
   </url>
   <url>
-    <loc>https://vlepy.github.io/2018/12/09/nest.html</loc>
-  </url>
-  <url>
     <loc>https://vlepy.github.io/2018/12/06/ouroboros.html</loc>
   </url>
   <url>
@@ -128,6 +125,9 @@
   </url>
   <url>
     <loc>https://vlepy.github.io/2018/12/05/alien_gimped.html</loc>
+  </url>
+  <url>
+    <loc>https://vlepy.github.io/2018/12/09/nest.html</loc>
   </url>
   <url>
     <loc>https://vlepy.github.io/2018/12/04/pnp.html</loc>
@@ -160,9 +160,6 @@
     <loc>https://vlepy.github.io/2018/11/07/butterfly.html</loc>
   </url>
   <url>
-    <loc>https://vlepy.github.io/2018/11/06/rabbit.html</loc>
-  </url>
-  <url>
     <loc>https://vlepy.github.io/2018/11/06/%C5%9Aciana.html</loc>
   </url>
   <url>
@@ -172,18 +169,21 @@
     <loc>https://vlepy.github.io/feed.xml</loc>
   </url>
   <url>
-    <loc>https://vlepy.github.io/assets/images/DUCK.cdr</loc>
-  </url>
-  <url>
-    <loc>https://vlepy.github.io/assets/images/banana_sea.xcf</loc>
-  </url>
-  <url>
     <loc>https://vlepy.github.io/assets/images/ouroboros.xcf</loc>
   </url>
   <url>
     <loc>https://vlepy.github.io/assets/images/alien_gimped.xcf</loc>
   </url>
   <url>
+    <loc>https://vlepy.github.io/2018/11/06/rabbit.html</loc>
+  </url>
+  <url>
     <loc>https://vlepy.github.io/assets/images/andrzej_jarek.xcf</loc>
+  </url>
+  <url>
+    <loc>https://vlepy.github.io/assets/images/DUCK.cdr</loc>
+  </url>
+  <url>
+    <loc>https://vlepy.github.io/assets/images/banana_sea.xcf</loc>
   </url>
 </urlset>
