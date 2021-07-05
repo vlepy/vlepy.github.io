@@ -4,5 +4,5 @@
   "html": "<a href=\"/assets/images/gcell.png\">\n  <img src=\"/assets/images/gcell.png\" width=\"600\">\n</a>\n<p>Night, coffee and cigarettes.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
-  "title": "Garden Cell"
+  "title": "GCell"
 }
