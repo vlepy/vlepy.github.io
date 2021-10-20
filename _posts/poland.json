@@ -1,0 +1,8 @@
+{
+  "date": "2021-06-07T17:06:00.000Z",
+  "excerpt": "A poem",
+  "html": "<p>Thousand years of Poland<p>\nThousand years of war<p>\nDedicated to God<p>\nUntil the last breath<p></p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Poland"
+}

@@ -1,0 +1,8 @@
+{
+  "date": "2021-10-10T19:06:00.000Z",
+  "excerpt": "On the evening sky, latter Venus in the morning.",
+  "html": "<a href=\"/assets/images/js.png\">\n  <img src=\"/assets/images/js.png\" width=\"600\">\n</a>\n<p>\n<a href=\"/assets/images/venus.png\">\n  <img src=\"/assets/images/venus.png\" width=\"600\">\n</a>\n<p>Jupiter to the left and Saturn to the right of the tree.<p>\nVenus in the center on the morning sky on the 2nd pic.</p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Jupiter and Saturn"
+}

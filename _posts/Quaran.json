@@ -1,0 +1,8 @@
+{
+  "date": "2021-04-09T16:33:00.000Z",
+  "excerpt": "My copy of The Noble Quaran",
+  "html": "<a href=\"/assets/images/q1.png\">\n  <img src=\"/assets/images/q1.png\" width=\"400\">\n</a>\n<a href=\"/assets/images/q2.png\">\n  <img src=\"/assets/images/q2.png\" width=\"400\">\n</a>\n<p>Print from 1986 by The National Releasing Institute<p>\nTranslator: Józef Bielawski</p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "The Noble Quaran"
+}

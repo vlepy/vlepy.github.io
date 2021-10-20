@@ -1,0 +1,8 @@
+{
+  "date": "2021-09-02T02:12:00.000Z",
+  "excerpt": "Trust no one",
+  "html": "<p>i told you<p>\none says a thing<p>\nanother tells different<p>\nand then they do something else</p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Unknown Waters"
+}

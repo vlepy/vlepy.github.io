@@ -1,0 +1,8 @@
+{
+  "date": "2021-03-02T19:12:00.000Z",
+  "excerpt": "A short poem of mine",
+  "html": "<p>time of true loves will come back<p>\nand nothing will be able to stop it<p>\nwe will change the world once again<p>\neven if that was our last breath</p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Time"
+}

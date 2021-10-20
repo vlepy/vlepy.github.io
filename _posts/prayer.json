@@ -1,0 +1,8 @@
+{
+  "date": "2021-10-01T14:32:00.000Z",
+  "excerpt": "Simple one",
+  "html": "<p>dear Lord<p>\nbe the coast light at night<p>\nlead us to the shore safe<p>\nso we fear no salty water anymore</p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "A prayer"
+}

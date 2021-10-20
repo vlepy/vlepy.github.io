@@ -1,0 +1,8 @@
+{
+  "date": "2021-06-26T14:58:00.000Z",
+  "excerpt": "Just an improvistation in GIMP",
+  "html": "<a href=\"/assets/images/ember.png\">\n  <img src=\"/assets/images/ember.png\" width=\"600\">\n</a>\n<p>Testing new screen while drinking loads of beer.</p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Ember"
+}

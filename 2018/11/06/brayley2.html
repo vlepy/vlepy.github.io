@@ -1,0 +1,748 @@
+<!doctype html>
+<html lang="en" itemscope itemtype="http://schema.org/Blog">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="manifest" href="/assets/manifest.json">
+  <link rel="icon" sizes="192x192" href="/assets/images/nova.png">
+
+  <meta property="og:url" content="/2018/11/06/brayley2.html">
+  <link rel="alternate" type="application/atom+xml" title="vlepy" href="/feed.xml">
+
+  <title>Brayley 2</title>
+
+  <meta name="theme-color" content="#00bcd4">
+  <style>
+  body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    margin: 1em 15% 1em 15%;
+    padding: 0;
+    color: #cfcfcf;
+    background-color: #181818;
+  }
+
+  @media (max-width: 600px) {
+    body {
+      margin: 1em;
+    }
+  }
+
+  code {
+    font-family: "Source Code Pro", Monaco, monospace;
+  }
+
+  pre {
+    border: 2px dotted #cecece;
+    overflow-x: auto;
+    padding: 1em;
+  }
+  a:link {
+    color: #5365b5;
+  }
+  a:visited {
+    color: #d18080;
+  }
+  a {
+    color: #ffffff
+    text-decoration: none;
+  }
+  .post-link {
+    color: #7a7ac4;
+  }
+  .post-link:visited {
+    color: #d18080;
+  }
+
+  .links {
+    color: #5365b5;
+  }
+  .links:visited {
+    color: #9965b5;
+  }
+  .site-header {
+    font-family: "Source Code Pro", Monaco, monospace;
+    font-size: 2em;
+    font-style: italic;
+    margin: 1em;
+    text-align: right;
+  }
+
+  .site-header > a {
+    color: #ff1c3c;
+  }
+
+  .post-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .post-list > li {
+    border: 2px dotted #cecece;
+    border-radius: 0.5em;
+    margin: 1em;
+    padding: 1em;
+  }
+
+  .post-header > a:link {
+    color: #ff1c3c;
+  }
+  .post-header > a:visited {
+    color: #d18080;
+  }
+  .post-meta {
+    font-size: 0.9em;
+    font-style: italic;
+    margin-top: -1em;
+    margin-bottom: -0.6em;
+  }
+
+  article > p a {
+    border-bottom: 1px dotted #00659d;
+  }
+
+  article > p > img {
+    max-width: 534px;
+  }
+
+  article > h2 {
+    font-size: 1.2em;
+  }
+  .youtube-embed {
+    height: 300px;
+    max-width: 100%;
+    width: 534px;
+  }
+
+  .site-footer {
+    margin-top: 1em;
+    border-top: 1px dotted #cecece;
+    display: flex;
+    flex-direction: row;
+  }
+
+  .site-footer > div {
+    margin: 1em;
+  }
+
+  .site-footer > div > div {
+    margin-bottom: 0.5em;
+  }
+
+  .site-footer > .links {
+    flex-basis: 30%;
+    color: #5365b5
+  }
+  .site-footer > .links:visited {
+    color: #9965b5
+  }
+
+  .site-footer > .text {
+    flex-basis: 70%;
+  }
+
+  .icon > svg {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+  }
+
+  img {
+    max-width: 100%;
+  }
+  
+  .utterances {
+    margin-left: 0px;
+    margin-top: 40px;
+    width: 600px;
+  }
+  
+  .timeline-header {
+    font-size: 0px !important;
+  }
+  
+  .tip {
+    display: inline-block;
+    vertical-align: bottom;
+  }
+</style>
+
+</head>
+
+  <body>
+    <div class="site-header"> 
+  <a href="/">vlepy</a>
+  <font size="2" color="#b4b4b4">
+	<div class="tip">
+	  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <input type="hidden" name="cmd" value="_s-xclick">
+        <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----">
+        <input type="image" src="/assets/images/tippl0x.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" height="14">
+        <img alt="" border="0" src="https://www.paypalobjects.com/pl_PL/i/scr/pixel.gif" width="1" height="1">
+      </form>
+	</div>
+  </font>
+</div>
+
+    <div class="page-content">
+      <div class="wrapper">
+        
+        <p class="post-meta">Tue Nov 06 2018 11:24:00 GMT+0100 (Central European Standard Time)</p>
+        
+        
+        <h1 class="post-header"><a href="">Brayley 2 </a></h1>
+        
+        <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=windows-1250"/>
+	<title></title>
+	<meta name="generator" content="LibreOffice 6.1.0.3 (Windows)"/>
+	<meta name="created" content="2016-08-08T21:48:28.379448969"/>
+	<meta name="changed" content="2017-12-28T14:58:51.395000000"/>
+	<style type="text/css">
+		@page { size: 21cm 29.7cm; margin: 2cm }
+		p { margin-bottom: 0.25cm; line-height: 120%; background: transparent }
+	</style>
+</head>
+<body lang="pl-PL" link="#000080" vlink="#800000" dir="ltr"><p align="center" style="margin-bottom: 0cm; line-height: 100%">
+Brayley 2</p>
+<p align="center" style="margin-bottom: 0cm; line-height: 100%">Autor:
+Mirosław Leśniak</p>
+<p align="center" style="margin-bottom: 0cm; line-height: 100%"><br/>
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%">	Lot do bazy Brayley
+2 przebiegł pomyślnie i rutynowo. Trzeba przyznać, że ostatnie
+udogodnienia w kwestii wyposażenia promów znacznie poprawiły komfort
+lotów. Wygodne siedzenia, miła dla oka stylistyka, dobra obsługa
+pasażerów, świetne jedzenie i te okna wyposażone w możliwość
+wyświetlania obrazu z pokładowego teleskopu. Bajka.</p>
+<p style="margin-bottom: 0cm; line-height: 100%">	Dr Philip K. z
+trudem wyrwał się ze stanu relaksacji, opuścił swój fotel i udał się
+do wyjścia z promu. Był sam. Sektor przylotów jak zwykle bił sterylną
+czystością i emanował kompletną ciszą. Cisza ta jednak została
+przerwana przez dźwięk pisania na klawiaturze. Dopiero wtedy K
+zauważył ubraną w niebieski uniform, siedzącą za biurkiem kobietę.
+Kobieta podniosła wzrok znad ekranu i skierowała go prosto w jego
+oczy.</p>
+<p style="margin-bottom: 0cm; line-height: 100%">- Witamy Doktorze K
+- rzekła przyjaźnie po czym drzwi sektora otworzyły się wpuszczając
+wkomponowującego się wizualnie w stylistykę otoczenia robota
+bagażowego.</p>
+<p style="margin-bottom: 0cm; line-height: 100%">- Zechce Pan udać
+się do swojej kwatery &ndash; powiedziała równie przyjaźnie po czym
+zwróciła swój wzrok z powrotem w kierunku ekranu jej monitora.</p>
+<p style="margin-bottom: 0cm; line-height: 100%">	K wręczył bagaż
+robotowi i za nim podążył.</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+</p>
+<p align="center" style="margin-bottom: 0cm; line-height: 100%">* * *</p>
+<p align="center" style="margin-bottom: 0cm; line-height: 100%"><br/>
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%">	Sterylne i wąskie
+korytarze stacji sprawiały, że czuł się bezpiecznie i komfortowo, K
+nigdy nie był typem klaustrofobika. Ludzie których mijał uprzejmie
+się z nim witali.</p>
+<p style="margin-bottom: 0cm; line-height: 100%">	Kwatera jaka
+została mu przydzielona wyglądała dokładnie tak jak ta którą
+zapamiętał z poprzedniej podróży do Brayley 2: szarość ścian
+połączona gdzieniegdzie z błękitem, biurko z terminalem komputerowym,
+podwójne, piętrowe łóżko i okno dachowe z pięknym widokiem na Ziemię.
+Ledwie rozpakował swoje rzeczy a jego telefon zadzwonił. Niechętnie
+wyciągnął go z kieszeni i odebrał połączenie od Dr Smitha, dyrektora
+bazy.</p>
+<p style="margin-bottom: 0cm; line-height: 100%">- Witam doktorze K &ndash;
+wydusił z siebie swoją charakterystyczną chrypką &ndash; oczekujemy
+na Pana biurze &ndash; zakończył i połączenie zostało przerwane.</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+</p>
+<p align="center" style="margin-bottom: 0cm; line-height: 100%">* * *</p>
+<p align="center" style="margin-bottom: 0cm; line-height: 100%"><br/>
+</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">	Biuro
+Smitha biło w oczy chaotycznym rozmieszczeniu znajdujących się w nim
+przedmiotów, innymi słowy: bałaganem. Na jego biurku umieszczonym
+przy jednej ze ścian można było zauważyć bezładną kompozycję urządzeń
+elektronicznych, papierowych dokumentów, bliżej nieokreślonych śmieci
+i niedopałków papierosów. Smith siedział za tym pejzażem popalając
+cygaretkę. Energicznie uderzył swoją tłustą, otwartą ręką w, chyba,
+jedyną wolną przestrzeń na biurku wzbijając część z przedmiotów na
+nim się znajdujących lekko ponad blat.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">-  Nie
+ma czasu na konwenanse &ndash; wydusił z siebie z powagą &ndash;
+odkrycie którego dokonaliśmy może okazać się fundamentalne dla
+dalszej egzystencji gatunku ludzkiego a także reszty życia jakie jest
+nam znane &ndash; kontynuował &ndash; proszę teraz wypocząć,
+wyruszamy w kierunku odkrycia za 10 godzin.</p>
+<p align="center" style="margin-bottom: 0cm; line-height: 100%"><br/>
+</p>
+<p align="center" style="margin-bottom: 0cm; line-height: 100%">* * *</p>
+<p align="center" style="margin-bottom: 0cm; line-height: 100%"><br/>
+</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">A: Skąd
+pewność, że nim jest?</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">B:
+Tylko on pasuje do opisu.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">A: Więc
+jaki mamy plan?</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">B:
+Pozwolimy mu działać, nie możemy zaryzykować otwartej konfrontacji.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">A:
+Zrozumiano.. ktoś idzie, powinniśmy się rozejść.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">&hellip;&hellip;&hellip;..</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%"><br/>
+</p>
+<p align="center" style="margin-bottom: 0cm; line-height: 100%">* * *</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%"><br/>
+</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">	Łaziki
+swobodnie sunęły poprzez księżycową równinę. Jechali już około
+godziny, byli już prawie na miejscu. Jim zatrzymał pojazd w najmniej
+spodziewanej dla K lokacji. Na środku pustkowia. Zabezpieczyli
+skafandry, rozhermetyzowali wnętrze łazika i wysiedli. Jim zaczął iść
+w kierunku sobie tylko znanego celu a K i ludzie z drugiego pojazdu
+za nim podążyli. Zatrzymali się przed niegłęboką wnęką na środku
+której znajdował się płaski, kwadratowy obiekt wydający się być
+wykonanym z metalu.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">- Jeden
+z naszych satelitów Księżyca wykrył to tydzień temu &ndash; wyjaśnił
+Smith &ndash; nie wiemy jeszcze co to jest, z czego jest wykonane i
+kto to tutaj umieścił. Nie jesteśmy też w stanie pobrać próbki do
+naszego laboratorium, wydaje się być twardsze niż stal i nie można
+tego uszkodzić. Na tę chwilę wiemy, że nie jest radioaktywne i nie
+emituje żadnych sygnałów. Wysłaliśmy już informację o odkryciu do
+rządu i wniosek o przysłanie kompletnej aparatury diagnostycznej z
+Ziemi. Zostanie dostarczona w ciągu kilku tygodni specjalnym
+transportem w trybie nadzwyczajnym. 
+</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">	K
+przyglądał się uważnie obiektowi. Była to kwadratowa płyta wielkości
+dwa na dwa metry, gruba na pięć centymetrów, błyszcząca się
+metalicznie seledynowym połyskiem. Gdyby nie fakt, że została
+znaleziona pośrodku księżycowego pustkowia pewnie zostałaby
+zignorowana i nikt nie zwróciłby na nią uwagi. K spróbował podnieść
+płytę, grawitacja księżyca sprawiła, że zadanie to było dość łatwe
+jednakże musiał użyć odrobiny siły. Pod spodem znajdował się jedynie
+księżycowy pył.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%"><br/>
+</p>
+<p align="center" style="margin-bottom: 0cm; line-height: 100%">* * *</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%"><br/>
+</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">	Jedzenie
+w stołówce było podłe jak nigdy. K z niesmakiem przeżuwał kurczaka.
+Nie udzielała mu się atmosfera kantyny. Nie dokańczając posiłku udał
+się do swojej kwatery. Po dotarciu na miejsce zasiadł za biurkiem i
+zalogował się do Internetu, sprawdził pocztę. Opóźnienie rzędu trzech
+sekund nie pozwalało na wygodną grę online z ludźmi na Ziemi, mógł
+jednak swobodnie grać w szachy. Czas mijał, K zdecydował zaczerpnąć
+trochę snu. Po dotarciu do łóżka niemal ogarnęło go zaskoczenie gdy
+zauważył złożony kawałek papieru leżący na pościeli. K rozwinął go, w
+środku widniał niechlujnie ręcznie napisany tekst: &bdquo;Znajdź
+Kapitana, zniszcz tę informację, pozdrawiam, C.&rdquo;</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">	K
+westchnął, spalił kartkę i poszedł spać.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%"><br/>
+</p>
+<p align="center" style="margin-bottom: 0cm; line-height: 100%">* * *</p>
+<p align="center" style="margin-bottom: 0cm; line-height: 100%"><br/>
+</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">	Nowy
+ogród botaniczny na Brayley 2 zdumiewał różnorodnością rosnących tu
+roślin. Poczynając od paproci, poprzez jabłonie, kończąc na
+filodendronach. Każda z sekcji ogrodu różniła się od kolejnej
+wilgotnością powietrza czy temperaturą. Słychać też było plusk wody i
+śpiew sprowadzonych tu z Ziemi ptaków, czasami brzęczenie owadów,
+pomiędzy roślinami cicho krzątały się roboty botaniczne. Wszystko to
+przykryte gigantyczną, przejrzystą kopułą.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">	Przechadzając
+się po ogrodzie K starał się nie zwracać uwagi na narastający
+niepokój jaki go ogarniał. Cel jego podróży, enigmatyczna kartka
+papieru jaką mu podrzucono, wreszcie fakt bycia setki tysięcy
+kilometrów daleko od Ziemi, na dodatek ta niska grawitacja. Nie
+wytrzymał, sięgnął do kieszeni po papierosy. Jego niepokój zmienił
+się w irytację kiedy zorientował się, że zapomniał zapalniczki ze
+swojej kwatery. Podszedł do pierwszego napotkanego człowieka,
+poprosił o ognień. Irytację zastąpiła rezygnacja kiedy poinformowano
+go, że tu nie wolno palić. &bdquo;Szlag&rdquo;, pomyślał i mamrocząc
+pod nosem udał się w kierunku kantyny.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%"><br/>
+</p>
+<p align="center" style="margin-bottom: 0cm; line-height: 100%">* * *</p>
+<p align="center" style="margin-bottom: 0cm; line-height: 100%"><br/>
+</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">	Dzwonek
+do drzwi o dźwięku śpiewającego skowronka wybudził K z głębokiego
+snu. K wywlókł się z łóżka po czym zajrzał w ekran wizjera. Widniały
+na nim sylwetki dwóch ubranych w t-shirty mężczyzn. 
+</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">- O co
+chodzi? &ndash; zapytał sennie.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">-
+Doktor Philip K? Przyszliśmy porozmawiać.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">	K
+otworzył drzwi, spojrzał na gości trzymających już przed jego oczami
+plakietki legitymacyjne Biura Ochrony Intelektualnych Dóbr
+Publicznych (w skrócie B.O.I.D.P.).</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">	Mężczyźni
+nie pytając o pozwolenie usiedli na znajdujących się w pomieszczeniu
+meblach. Jeden na krześle przy biurku z terminalem komputerowym,
+drugi na rozgrzebanym łóżku. Ten siedzący na łóżku, chudszy z ich
+obojga, wyjął tablet i zaczął czytać mamrocząc coś niezrozumiale pod
+nosem, ten grubszy siedzący przy biurku, zajął się podjadaniem
+solonych orzeszków ziemnych stojących w miseczce przy terminalu, K
+przyniósł je z bufetu poprzedniego dnia.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">	Wreszcie,
+ten chudszy, nie odrywając oczu sprzed tabletu zebrał się na
+wypowiedź:</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">- Panie
+K, Biuro Ochrony Intelektualnych Dóbr Publicznych doszukało się
+przestępstwa przeciwko Intelektualnemu Dobru Publicznemu jakie
+popełnił Pan trzy dni temu na pokładzie promu lecącego do naszej
+bazy.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">	K nie
+krył zaskoczenia</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">- Cała
+praca jaką wykonuję jest synchronizowana z ziemskim repozytorium kodu
+w czasie rzeczywistym! Byłbym głupcem gdybym próbował coś ukryć!</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">- Panie
+K, proszę spojrzeć &ndash; odrzekł chudszy po czym odwrócił ekran
+tabletu w jego kierunku. Oczom K ukazało się nagranie przedstawiające
+jego samego rysującego ołówkiem na kartce papieru &ndash; powinien
+Pan znać prawo w tej dziedzinie lepiej niż ktokolwiek inny na tamtym
+promie &ndash; dokończył.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">	K
+przełknął ślinę. Czuł, że blednie.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">- To
+tylko rysunek pomocniczy&hellip; miałem go wprowadzić do systemu
+zaraz po dotarciu do Brayley&hellip; na śmierć zapomniałe...</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">	-
+Doktorze K &ndash; przerwał mu chudszy &ndash; zgodnie z punktem
+trzecim ustępu drugiego artykułu dwunastego ustawy o ochronie
+Intelektualnych Dóbr Publicznych zostaje Pan pozbawiony dostępu do
+Internetu na 30 dni, sąd SI wymierzył Panu także karę tygodniowego
+pozbawienia wolności w trybie natychmiastowym. Proszę wyciągnąć ręce
+przed siebie, jest Pan aresztowany, muszę założyć Panu kajdanki. K
+przełknął ślinę raz jeszcze po czym posłusznie wykonał polecenie.
+Został skuty.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">	Wreszcie
+odezwał się ten gruby:</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">-
+Piękny widoczek ma Pan tutaj, hej, i dzięki za poczęstunek &ndash; po
+czym udali się do bloku więziennego.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">	</p>
+<p align="center" style="margin-bottom: 0cm; line-height: 100%">* * *</p>
+<p align="center" style="margin-bottom: 0cm; line-height: 100%"><br/>
+</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">	Ziemniaki,
+kotlety mielone i mizeria. Jak można było się spodziewać, jadłospis
+więzienny nie był wyjątkowo finezyjny. Jednak K od zawsze lubił to
+danie. Na warunki w celi też nie mógł narzekać. Sterylne
+pomieszczenie cztery na cztery metry, stosunkowo wygodna prycza,
+łazienka, terminal z dostępem do bazy książek, innych mediów i
+pornografii oraz telewizor. Raz dziennie spod pryczy wyjeżdżał
+niewielki robot sprzątający; czyścił podłogę, ściany a nawet sufit,
+jednocześnie spryskując je płynem antyseptycznym. Toaleta, umywalka i
+prysznic czyściły się same.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">	Nagle
+otworzyły się drzwi do celi. Ku zaskoczeniu K stał za nimi dyrektor
+Brayley 2.  Dr. Smith. Kiedy przestał sapać powiedział:</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">- No,
+tu Pan jesteś, dalej, idziemy.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">	K
+odparł:</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">-
+Ale... zostały mi jeszcze cztery dni odsiadki&hellip; jeśli teraz
+stąd wyjdę&hellip;</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">-
+Przestań Pan pierdolić &ndash; Smith zareagował nerwowo &ndash; mam
+znajomości tam gdzie trzeba, kara została anulowana.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">	Wyszli
+z bloku więziennego mijając grającego na tablecie strażnika.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%"><br/>
+</p>
+<p align="center" style="margin-bottom: 0cm; line-height: 100%">* * *</p>
+<p align="center" style="margin-bottom: 0cm; line-height: 100%"><br/>
+</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">A:
+Zgubiłem go. Jakby się ulotnił.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">B: Miej
+oczy dookoła głowy, nie może się wymknąć.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">A: Coś
+ma się na rzeczy. Nie ma go tu.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">B: Więc
+została tylko jedna możliwość. Szykuj się do drogi.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">&hellip;&hellip;&hellip;..</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%"><br/>
+</p>
+<p align="center" style="margin-bottom: 0cm; line-height: 100%">* * *</p>
+<p align="center" style="margin-bottom: 0cm; line-height: 100%"><br/>
+</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">	K
+niechętnie przeżuwał sałatkę. Pewnie gdyby nie okoliczności smakowała
+by mu lepiej. Zaledwie minął tydzień jego pobytu na Księżycu a już
+miał tego dość. Odstawił tackę. Wstał i wyszedł do bufetowej palarni.
+Była to niewielka, dobrze wentylowana klitka z obitymi miękkim
+tworzywem ławeczkami pomiędzy którymi znajdował się stół z dwiema
+popielniczkami. Nad wszystkim górował duży ekran wyświetlający jakiś
+ziemski program informacyjny. Mówili coś o najstarszym, żyjącym
+człowieku na planecie. Chwilę później puścili materiał o najnowszym
+filmie z jednym z ubóstwianych przez kobiety gwiazdorów kina. K
+nienawidził telewizji. Wyciągnął Mocnego z paczki. Odpalił, 
+zaciągnął się dymem jednocześnie tępo wbijając wzrok w wyświetlacz
+telewizora.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">- Pan
+też ma dość tego miejsca?</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">	K z
+żalem zdał sobie sprawę z tego, że nie jest sam w tym pomieszczeniu.
+Skierował wzrok w stronę z której dobiegły te słowa. Ujrzał szczupłą,
+czarnowłosą, ubraną w bufetowy uniform kobietę, oszacował jej wiek na
+około trzydzieści lat. Paliła mentolowego Pall Malla slim. Typowe.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">- Czy
+ja wiem&hellip; - odparł obojętnie.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">- Ja
+wiem. Ta ciągła praca w warunkach niskiej grawitacji. Musimy zakładać
+balast ale łatwo przez to można się posiniaczyć. Proszę spojrzeć -
+Lekko uniosła jedną ze swoich nóg ukazując widoczne spod pończoch
+ciemniejsze plamy na skórze. 
+</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">- Moja
+koleżanka nawet ostatnio skręciła sobie kostkę &ndash; kontynuowała.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">- Aha &ndash;
+K skwitował krótko. Przyspieszył proces palenia papierosa przez co
+żar stanowił już połowę jego długości.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">- Poza
+tym, tęsknie do domu. Zostały jeszcze trzy tygodnie mojej delegacji.
+Później wrócę na planetę.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">- Skąd
+Pani pochodzi? - zaciekawił się odrobinę.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">-
+Południowa Italia &ndash; uśmiechnęła się &ndash; ale moi rodzice nie
+są stamtąd. Ojciec pochodził z Chicago, matka z Pragi.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">	Do K
+dotarło, że spalił już cały tytoń w papierosie i dym którym się
+zaciąga wydobywany jest z węglącego się ustnika. Ostatecznie zapytał:
+</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">- Jak
+Pani na imię?</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">-
+Bridget, dla znajomych Bri.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">- Miło
+było poznać, Pani Bridget.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">	Zgasił
+peta i oddalił się do kwatery.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%"><br/>
+</p>
+<p align="center" style="margin-bottom: 0cm; line-height: 100%">* * *</p>
+<p align="center" style="margin-bottom: 0cm; line-height: 100%"><br/>
+</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">	K
+przeszedł przez drzwi kwatery z zamiarem zalogowania się do
+terminala. Usiadł zdając sobie sprawę, że pomiędzy nim a fotelem jest
+jeszcze jakiś twardy przedmiot. Wstał i ku swojemu zaskoczeniu zdał
+sobie sprawę, że jest to paralizator; prawdopodobnie zgubił go jeden
+z funkcjonariuszy B.O.I.D.P. K schował paralizator do kieszeni po
+czym zabrał się za korespondowanie i podgryzanie orzeszków. Po
+godzinie zmorzył go sen.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%"><br/>
+</p>
+<p align="center" style="margin-bottom: 0cm; line-height: 100%">* * *</p>
+<p align="center" style="margin-bottom: 0cm; line-height: 100%"><br/>
+</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">	Poranna
+kąpiel, śniadanie w bufecie. K ciągle zamroczony snem snuł się przez
+korytarz w kierunku hangaru z łazikami. Na miejscu już czekał na
+niego Smith, Jim i wysoki, około sześćdziesięcioletni człowiek
+którego K jeszcze wcześniej nie spotkał. 
+</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">-
+Witamy doktorze K &ndash; wycharczał Smith &ndash; proszę poznać
+doktora Williama Froga, specjalistę od fizyki molekularnej.
+Przyleciał do nas wczoraj. Z Ziemi.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">	Uścisnęli
+sobie dłonie po czym zabrali się za zakładanie skafandrów. Jim
+sprawdził czy cały sprzęt trzyma się łazików, wsiedli do pojazdów,
+przejechali przez śluzę powietrzną i wyruszyli w kierunku położenia
+obiektu. Jechali dobrze już wytartą w pyle księżycowym ścieżką. 
+</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">-
+Szlag! - niespodziewanie przez radio wykrzyknął Jim. - Nie ma go
+tutaj!</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">	Wysiedli
+aby zdać sobie sprawę, że obiektu nie ma ma w miejscu w którym był
+ostatnio. Przeszukali okolicę, na próżno. Wstrząs tektoniczny wyrwał
+ich z zakłopotania które zostało zastąpiona przerażeniem. Ich wzrok
+przykuła chmura pyłu która uniosła na oddalonym o dziesiątki
+kilometrów terenie. Zdali sobie sprawę, że w strefie pozostałości
+Beayley 1 właśnie doszło do eksplozji. Smith zarządził natychmiastowy
+powrót do Brayley 2. Wsiedli do łazików, odjechali tak szybko jak
+tylko mogli.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%"><br/>
+</p>
+<p align="center" style="margin-bottom: 0cm; line-height: 100%">* * *</p>
+<p align="center" style="margin-bottom: 0cm; line-height: 100%"><br/>
+</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">B:
+Trzymaj go.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">A:
+Robię co mogę.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">B:
+Przyciśnij go do ziemi, muszę go spiąć.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">A:
+Szlag, jest silniejszy niż myślałem.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">B:
+Trzymaj go porządnie bo oboje tu umrzemy.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">A:
+Chyba opanowane&hellip; kurwa, wyrywa się.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">&hellip;&hellip;&hellip;</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%"><br/>
+</p>
+<p align="center" style="margin-bottom: 0cm; line-height: 100%">* * *</p>
+<p align="center" style="margin-bottom: 0cm; line-height: 100%"><br/>
+</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">	Brayley
+1 było jedną z pierwszych baz naksiężycowych założonych przez
+człowieka. Przez niemal dekadę badano tam funkcjonowanie życia
+biologicznego w warunkach księżycowych oraz opracowywano technologie
+służące dalszemu osiedlaniu się człowieka na Księżycu. Doszło jednak
+do awarii reaktora przez co personel był zmuszony opuścić tamto
+miejsce. Cały obszar B1 został poważnie skażony radioaktywnie i
+jedynie maszyny mogły to miejsce monitorować. Kierownictwo Agencji
+Księżycowej uznało jednak po pewnym czasie historię B1 za zakończoną
+i zaprzestano aktywnego obserwowania tamtego obszaru. Aż do tej
+chwili.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%"><br/>
+</p>
+<p align="center" style="margin-bottom: 0cm; line-height: 100%">* * *</p>
+<p align="center" style="margin-bottom: 0cm; line-height: 100%"><br/>
+</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">	Po
+zachermetyzowaniu śluzy i wypełnieniu jej powietrzem w ich uszy
+uderzył ryk syren alarmowych a ich oczy raziło migotanie czerwonych
+świateł sygnalizujących alarm. Z głośników dobiegał zapętlony
+komunikat nakazujący przebywającym w bazie udanie się do swoich
+kwater. Smith oznajmił, że udaje się do centrum dowodzenia a reszta
+ma wykonać polecenia wydane w komunikacie. K stanął na przeciw drzwi
+prowadzących z hangaru łazików do wnętrza bazy. Wrota otworzyły się
+ukazując pusty korytarz zalany czerwonym światłem. K w pośpiechu
+ruszył w jego głąb. Uwolniona z organizmu adrenalina prawdopodobnie
+była jedynym powodem dzięki któremu nie stracił przytomności ze
+strachu i ogólnego stresu. K dotarł do kwatery z przykrością zdając
+sobie sprawę z tego, że drzwi do niej są otwarte. Niepewnie zajrzał
+do środka. W środku panował nieznajomy nieporządek: przewrócone
+krzesło, pościel na podłodze, zdewastowany terminal i mnóstwo
+porozrzucanych, mniejszych przedmiotów. Sytuacji nie poprawiał fakt,
+że najwyraźniej ktoś krył się pod pościelą na podłodze gdyż ta
+ruszała się dość energicznie. Włos zjeżył mu się na głowie. Powoli
+podszedł do kłębiącego się zawiniątka z kołdry. Ostrożnie zaczął
+unosić je do góry. W jednej chwili pomieszczenie wypełnił piskliwy
+ryk dodając się do akompaniamentu i tak już hałaśliwej syreny
+alarmowej. Spod kołdry wyskoczył  na niego włochaty humanoid gryząc i
+drapiąc na ślepo. Był to szympans. K w szoku padł na podłogę. Istota
+zostawiła go w spokoju po czym wybiegła z pomieszczenia.  K przeklął
+cały świat, a chwilę później, po zamknięciu drzwi, zabrał się za
+usuwanie nieporządku.</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%"><br/>
+</p>
+<p align="center" style="margin-bottom: 0cm; line-height: 100%">* * *</p>
+<p align="center" style="margin-bottom: 0cm; line-height: 100%"><br/>
+</p>
+<p align="left" style="margin-bottom: 0cm; line-height: 100%">	Syreny
+alarmowe wyły jeszcze przez cztery godziny. K leżał na łóżku owijając
+głowę poduszką i przyciskając ją do uszu. Po korytarzu przemieszczały
+się w tym jakieś postacie. Starał się to ignorować. Kiedy alarm ustał
+z głośników nadano komunikat informujący, że kilkanaście kilometrów
+od B2 w powierzchnię księżyca uderzył niewielki meteoryt przez co
+system zarządzający zwierzyńcem uległ awarii wskutek czego część ze
+zwierząt przedostała się poza zoo, że sytuacja jest już opanowana i
+ostatecznie, że wszyscy są bezpieczni, nie było żadnych ofiar i można
+już swobodnie poruszać się po bazie. K zdawał sobie sprawę, że to
+stek bzdur. Wreszcie odpalił papierosa. Po chwili następnego. W
+międzyczasie na jego telefonie pojawiła się informacja o planowanym
+zastąpieniu zniszczonego terminala jeszcze tego dnia. Kolejny
+papieros. Dość. K uznał, że rezygnuje, wyszedł w biura Smitha w celu
+złożenia wniosku o rezygnację z zadania jakie mu przydzielono. Nawet
+nie słuchał co Smith ma do powiedzenia. Następnie zamówił pół litra
+wódki w kantynie. Zaczął pić, spalał kolejne papierosy. Sen zmorzył
+go w drugiej połowie flaszki. Ostatecznie zasnął na blacie stołu
+rozlewając zawartość butelki po podłodze. Po kilkunastu sekundach
+uprzątnął to niewielki robot finalnie oddalając się w celu
+wykonywania dalszej pracy.</p>
+</body>
+</html>
+        <script src="https://utteranc.es/client.js"
+        repo="vlepy/vlepy.github.io"
+        issue-term="title"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+	</script>
+      </div>
+    </div>
+    <footer class="site-footer">
+  <div class="links">
+    <div><a href="mailto:mir.lesniak@gmail.com">mir.lesniak@gmail.com</a></div>
+    <div>
+      <a href="https://github.com/vlepy">
+          <span class="icon  icon--github">
+            <svg viewBox="0 0 16 16">
+              <path fill="#828282" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/>
+            </svg>
+          </span>
+        <span class="username">vlepy</span>
+      </a>
+    </div>
+	<div>
+	  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <input type="hidden" name="cmd" value="_s-xclick">
+        <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----">
+        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+        <img alt="" border="0" src="https://www.paypalobjects.com/pl_PL/i/scr/pixel.gif" width="1" height="1">
+      </form>
+	</div>
+
+  </div>
+     <div align="center"><a href="https://vlepy.github.io/feed.xml"><img src="/assets/images/rss.png" width="50"></a></div>
+
+<div class="fb-share-button" data-href="" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fvlepy.github.io%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
+  <div class="text">
+    <div align="right">Cognoscetis veritatem, et veritas liberabit vos.</div>
+    <div align="right"><div class="license">
+  This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+</div>
+</div>
+  </div>
+ 
+</footer>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-57130145-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+    <script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', function() {
+      navigator.serviceWorker.register('/service-worker.js');
+    });
+  }
+</script>
+
+	<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_EN/sdk.js#xfbml=1&version=v3.2';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  </body>
+</html>

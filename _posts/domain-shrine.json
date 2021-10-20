@@ -1,0 +1,8 @@
+{
+  "date": "2018-11-24T06:41:00.000Z",
+  "excerpt": "An M:TG deck",
+  "html": "<p><a href=\"/assets/images/domain-shrine.png\"><img src=\"/assets/images/domain-shrine.png\" width=\"600\"></a></p>\n<p> \n<a href=\"/assets/images/honden8.cod\">Source</a>\n<p>\nJust a low-cost, historic standard deck I made a long time ago.\nAims to ramp early and speedcast hondens followed by obliterates and support spells while keeping on ramping.\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "M:TG Domain Shrine"
+}

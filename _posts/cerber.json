@@ -1,0 +1,8 @@
+{
+  "date": "2018-11-07T21:41:00.000Z",
+  "excerpt": "SVG art",
+  "html": "<object data=\"/assets/images/cerber.svg\" type=\"image/svg+xml\" width=\"650\" height=\"650\">\n  <img src=\"/assets/images/cerber.png\" />\n</object>",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Cerber"
+}

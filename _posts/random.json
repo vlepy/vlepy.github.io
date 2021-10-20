@@ -1,0 +1,8 @@
+{
+  "date": "2021-07-03T00:33:00.000Z",
+  "excerpt": "A pic",
+  "html": "<a href=\"/assets/images/random.png\">\n  <img src=\"/assets/images/scaled_random.png\" width=\"600\">\n</a>\n<p>Yet another picture.</p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Random\t"
+}

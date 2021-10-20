@@ -1,0 +1,8 @@
+{
+  "date": "2019-07-30T02:27:00.000Z",
+  "excerpt": "A pony i met in my life",
+  "html": "<p><a href=\"/assets/images/pony.jpg\"><img src=\"/assets/images/pony.jpg\" width=\"600\"></a></p>\n</object>\n<p>I think he was standing by to travel the universe along with me.</p>\n<p>Photo taken during summer '18.</p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Pony"
+}

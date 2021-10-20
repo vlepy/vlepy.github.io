@@ -1,0 +1,8 @@
+{
+  "date": "2021-06-23T12:38:00.000Z",
+  "excerpt": "A poem",
+  "html": "<p>the blind can't see<p>\nthe deaf can't hear<p>\nthe mute spoken<p>\ngalaxies bloom with life</p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Mute"
+}
