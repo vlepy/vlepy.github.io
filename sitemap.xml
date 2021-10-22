@@ -85,9 +85,6 @@
     <loc>https://vlepy.github.io/2021/07/09/abstract7.html</loc>
   </url>
   <url>
-    <loc>https://vlepy.github.io/2021/07/09/abstract6.html</loc>
-  </url>
-  <url>
     <loc>https://vlepy.github.io/2021/07/09/sugar.html</loc>
   </url>
   <url>
@@ -95,6 +92,9 @@
   </url>
   <url>
     <loc>https://vlepy.github.io/2021/07/07/clockwork.html</loc>
+  </url>
+  <url>
+    <loc>https://vlepy.github.io/2021/07/09/abstract6.html</loc>
   </url>
   <url>
     <loc>https://vlepy.github.io/2021/07/05/gcell.html</loc>
@@ -187,6 +187,9 @@
     <loc>https://vlepy.github.io/2020/03/31/abstract.html</loc>
   </url>
   <url>
+    <loc>https://vlepy.github.io/2019/08/27/inorock.html</loc>
+  </url>
+  <url>
     <loc>https://vlepy.github.io/2019/08/01/drought.html</loc>
   </url>
   <url>
@@ -247,9 +250,6 @@
     <loc>https://vlepy.github.io/2018/12/04/pnp.html</loc>
   </url>
   <url>
-    <loc>https://vlepy.github.io/2019/08/27/inorock.html</loc>
-  </url>
-  <url>
     <loc>https://vlepy.github.io/2018/12/03/aliens_smoke.html</loc>
   </url>
   <url>
@@ -277,10 +277,10 @@
     <loc>https://vlepy.github.io/2018/11/07/butterfly.html</loc>
   </url>
   <url>
-    <loc>https://vlepy.github.io/2018/11/06/rabbit.html</loc>
+    <loc>https://vlepy.github.io/2018/11/06/%C5%9Aciana.html</loc>
   </url>
   <url>
-    <loc>https://vlepy.github.io/2018/11/06/%C5%9Aciana.html</loc>
+    <loc>https://vlepy.github.io/2018/11/06/rabbit.html</loc>
   </url>
   <url>
     <loc>https://vlepy.github.io/2018/11/06/brayley2.html</loc>
@@ -292,15 +292,15 @@
     <loc>https://vlepy.github.io/assets/images/DUCK.cdr</loc>
   </url>
   <url>
-    <loc>https://vlepy.github.io/assets/images/banana_sea.xcf</loc>
-  </url>
-  <url>
     <loc>https://vlepy.github.io/assets/images/ouroboros.xcf</loc>
   </url>
   <url>
-    <loc>https://vlepy.github.io/assets/images/andrzej_jarek.xcf</loc>
+    <loc>https://vlepy.github.io/assets/images/banana_sea.xcf</loc>
   </url>
   <url>
     <loc>https://vlepy.github.io/assets/images/alien_gimped.xcf</loc>
+  </url>
+  <url>
+    <loc>https://vlepy.github.io/assets/images/andrzej_jarek.xcf</loc>
   </url>
 </urlset>
