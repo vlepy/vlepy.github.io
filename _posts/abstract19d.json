@@ -1,7 +1,7 @@
 {
   "date": "2021-11-02T16:44:00.000Z",
   "excerpt": "Morning Creations™ 4",
-  "html": "<a href=\"/assets/images/abstract19d.png\">\n  <img src=\"/assets/images/scaled_abstract19d.png\" width=\"600\">\n</a>\n<p>Anosther one.</p>\n",
+  "html": "<a href=\"/assets/images/abstract19d.png\">\n  <img src=\"/assets/images/scaled_abstract19d.png\" width=\"600\">\n</a>\n<p>Another one.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract 19d"
