@@ -1,7 +1,7 @@
 {
   "date": "2021-11-02T09:42:00.000Z",
   "excerpt": "Morning Creations™",
-  "html": "<a href=\"/assets/images/abstract19b.png\">\n  <img src=\"/assets/images/scaled_abstract19b.png\" width=\"600\">\n</a>\n<p>another take on &quot;Abstract 19&quot;.</p>\n",
+  "html": "<a href=\"/assets/images/abstract19b.png\">\n  <img src=\"/assets/images/scaled_abstract19b.png\" width=\"600\">\n</a>\n<p>Another take on &quot;Abstract 19&quot;.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract 19b"
