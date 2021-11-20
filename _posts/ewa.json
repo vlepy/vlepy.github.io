@@ -1,7 +1,7 @@
 {
   "date": "2021-11-20T09:04:00.000Z",
   "excerpt": "Well wtf",
-  "html": "<p><a href=\"/assets/images/Reaktor_Ewa.jpg\"><img src=\"/assets/images/Reaktor_Ewa.jpg\" width=\"600\"></a></p>\n<p>Not a picture of mine, unfortunetly, but, worth seeing.</p>\n",
+  "html": "<p><a href=\"/assets/images/Reaktor_Ewa.jpg\"><img src=\"/assets/images/Reaktor_Ewa.jpg\" width=\"600\"></a></p>\n<p>Not a picture of mine, unfortunetly, but, worth seeing. Taken from wikipedia.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Reactor Eve"
