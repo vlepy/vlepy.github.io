@@ -1,7 +1,7 @@
 {
   "date": "2021-11-20T19:42:00.000Z",
   "excerpt": "Our pride",
-  "html": "<a href=\"/assets/images/Reaktor_maria.jpg\">\n  <img src=\"/assets/images/Reaktor_maria.jpg\" width=\"600\">\n</a>\n<p>30MW, powering Warsaw.</p>\n",
+  "html": "<a href=\"/assets/images/Reaktor_maria.jpg\">\n  <img src=\"/assets/images/Reaktor_maria.jpg\" width=\"600\">\n</a>\n<p>30MW, powering Warsaw. Taken from Wikipedia.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Reactor Maria"
