@@ -1,7 +1,7 @@
 {
   "date": "2018-11-07T13:14:00.000Z",
   "excerpt": "SVG art",
-  "html": "<object data=\"/assets/images/motyl.svg\" type=\"image/svg+xml\" width=\"650\" height=\"400\">\n  <img src=\"/assets/images/motyl.png\" />\n</object>",
+  "html": "<a href data=\"/assets/images/motyl.svg\" width=\"600\">\n  <img src=\"/assets/images/motyl.png\" />\n</a>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Butterfly"

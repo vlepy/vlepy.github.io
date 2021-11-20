@@ -1,7 +1,7 @@
 {
   "date": "2018-11-07T20:25:00.000Z",
   "excerpt": "SVG art",
-  "html": "<object data=\"/assets/images/chaos.svg\" type=\"image/svg+xml\" width=\"650\" height=\"650\">\n  <img src=\"/assets/images/chaos.png\" />\n</object>",
+  "html": "<a href data=\"/assets/images/chaos.png\" width=\"600\">\n  <img src=\"/assets/images/chaos.svg\">\n</a>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Chaos"
