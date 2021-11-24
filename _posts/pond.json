@@ -1,7 +1,7 @@
 {
   "date": "2021-04-22T21:59:00.000Z",
   "excerpt": "An old picture",
-  "html": "<a href=\"/assets/images/pond.jpg\">\n  <img src=\"/assets/images/pond.jpg\" width=\"600\">\n</a>\n<p>A picture from years ago.</p>\n",
+  "html": "<a href=\"/assets/images/pond.jpg\">\n  <img src=\"/assets/images/pond.jpg\">\n</a>\n<p>A picture from years ago.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Pond"

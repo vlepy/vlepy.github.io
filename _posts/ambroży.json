@@ -1,7 +1,7 @@
 {
   "date": "2018-11-08T00:13:00.000Z",
   "excerpt": "SVG art",
-  "html": "<a href=\"/assets/images/ambroży.svg\">\n  <img src=\"/assets/images/ambroży.png\" width=\"600\">\n</object>\n",
+  "html": "<a href=\"/assets/images/ambroży.svg\">\n  <img src=\"/assets/images/ambroży.png\">\n</object>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Ambroży the snail"

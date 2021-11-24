@@ -1,7 +1,7 @@
 {
   "date": "2021-09-16T16:14:00.000Z",
   "excerpt": "Morning GIMPin'",
-  "html": "<a href=\"/assets/images/atissue.png\">\n  <img src=\"/assets/images/scaled_atissue.png\" width=\"600\">\n</a>\n<p>Just a morning abstraction.</p>\n",
+  "html": "<a href=\"/assets/images/atissue.png\">\n  <img src=\"/assets/images/scaled_atissue.png\">\n</a>\n<p>Just a morning abstraction.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract Tissue"

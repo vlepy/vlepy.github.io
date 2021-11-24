@@ -1,7 +1,7 @@
 {
   "date": "2019-04-01T02:50:00.000Z",
   "excerpt": "Old neighbourhood of mine",
-  "html": "<p><a href=\"/assets/images/rabin.jpg\"><img src=\"/assets/images/rabin.jpg\" width=\"600\"></a></p>\n<p>My old neighbourhood in national colors.</p>\n",
+  "html": "<p><a href=\"/assets/images/rabin.jpg\"><img src=\"/assets/images/rabin.jpg\"></a></p>\n<p>My old neighbourhood in national colors.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Rąbin bombi"

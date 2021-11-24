@@ -1,7 +1,7 @@
 {
   "date": "2018-11-07T21:41:00.000Z",
   "excerpt": "SVG art",
-  "html": "<a href=\"/assets/images/cerber.svg\">\n  <img src=\"/assets/images/cerber.png\" width=\"600\">\n</a>\n",
+  "html": "<a href=\"/assets/images/cerber.svg\">\n  <img src=\"/assets/images/cerber.png\">\n</a>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Cerber"

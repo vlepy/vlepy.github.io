@@ -1,7 +1,7 @@
 {
   "date": "2020-04-10T21:16:00.000Z",
   "excerpt": "A wallpaper",
-  "html": "<a href=\"/assets/images/stripes.png\">\n  <img src=\"/assets/images/stripes.png\" width=\"600\">\n</a>\n<p>A wallpaper for today.</p>\n",
+  "html": "<a href=\"/assets/images/stripes.png\">\n  <img src=\"/assets/images/stripes.png\">\n</a>\n<p>A wallpaper for today.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Stripes"

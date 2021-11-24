@@ -1,7 +1,7 @@
 {
   "date": "2018-12-06T09:09:00.000Z",
   "excerpt": "What was first, the wheel or the self eating snake",
-  "html": "<p><a href=\"/assets/images/ouroboros.png\"><img src=\"/assets/images/ouroboros.png\" width=\"600\"></a></p>\n<p><a href=\"/assets/images/ouroboros.xcf\">Source</a></p>\n<p>Of course. The snake. We got it sorted now.</p>\n",
+  "html": "<p><a href=\"/assets/images/ouroboros.png\"><img src=\"/assets/images/ouroboros.png\"></a></p>\n<p><a href=\"/assets/images/ouroboros.xcf\">Source</a></p>\n<p>Of course. The snake. We got it sorted now.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Freaking Ouroboros Mofos"

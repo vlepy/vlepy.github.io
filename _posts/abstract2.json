@@ -1,7 +1,7 @@
 {
   "date": "2020-03-31T20:22:00.000Z",
   "excerpt": "Few minutes of work in GIMP again",
-  "html": "<a href=\"/assets/images/abstract2.png\">\n  <img src=\"/assets/images/abstract2.png\" width=\"600\">\n</a>\n<p>A full hd wallpaper, hope you like it.</p>\n",
+  "html": "<a href=\"/assets/images/abstract2.png\">\n  <img src=\"/assets/images/abstract2.png\">\n</a>\n<p>A full hd wallpaper, hope you like it.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "The Abstract 2"

@@ -1,7 +1,7 @@
 {
   "date": "2021-07-05T04:26:00.000Z",
   "excerpt": "Night GIMPing",
-  "html": "<a href=\"/assets/images/gcell.png\">\n  <img src=\"/assets/images/scaled_gcell.png\" width=\"600\">\n</a>\n<p>Night, coffee and cigarettes.</p>\n",
+  "html": "<a href=\"/assets/images/gcell.png\">\n  <img src=\"/assets/images/scaled_gcell.png\">\n</a>\n<p>Night, coffee and cigarettes.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Garden Cell"

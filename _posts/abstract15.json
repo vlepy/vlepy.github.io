@@ -1,7 +1,7 @@
 {
   "date": "2021-10-22T12:41:00.000Z",
   "excerpt": "Friday GIMPin'",
-  "html": "<a href=\"/assets/images/abstract15.png\">\n  <img src=\"/assets/images/scaled_abstract15.png\" width=\"600\">\n</a>\n<p>Here you go.</p>\n",
+  "html": "<a href=\"/assets/images/abstract15.png\">\n  <img src=\"/assets/images/scaled_abstract15.png\">\n</a>\n<p>Here you go.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract 15"
