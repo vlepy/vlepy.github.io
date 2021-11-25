@@ -1,7 +1,7 @@
 {
   "date": "2021-07-22T06:45:00.000Z",
   "excerpt": "GIMP",
-  "html": "<a href=\"/assets/images/blackbox.jpg\">\n  <img src=\"/assets/images/scaled_blackbox.jpg\">\n</a>\n<p>Bouth to mkae a stand for the products , I an almost ready to sell.</p>\n",
+  "html": "<a href=\"/assets/images/blackbox.jpg\">\n  <img src=\"/assets/images/blackbox.jpg\">\n</a>\n<p>Bouth to mkae a stand for the products , I an almost ready to sell.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Good ol black box"

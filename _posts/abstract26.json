@@ -1,7 +1,7 @@
 {
   "date": "2021-11-23T22:55:00.000Z",
   "excerpt": "Electric",
-  "html": "<a href=\"/assets/images/abstract26.png\">\n  <img src=\"/assets/images/scaled_abstract26.png\">\n</a>\n<p>There you go.</p>\n",
+  "html": "<a href=\"/assets/images/abstract26.png\">\n  <img src=\"/assets/images/abstract26.png\">\n</a>\n<p>There you go.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract 26"

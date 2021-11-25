@@ -1,7 +1,7 @@
 {
   "date": "2021-10-20T16:20:00.000Z",
   "excerpt": "Creepy one",
-  "html": "<a href=\"/assets/images/abstract13.png\">\n  <img src=\"/assets/images/scaled_abstract13.png\">\n</a>\n<p>I start to be creeped out by the stuff I make.</p>\n",
+  "html": "<a href=\"/assets/images/abstract13.png\">\n  <img src=\"/assets/images/abstract13.png\">\n</a>\n<p>I start to be creeped out by the stuff I make.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract 13"

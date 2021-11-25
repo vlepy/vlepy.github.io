@@ -1,7 +1,7 @@
 {
   "date": "2021-11-03T15:00:00.000Z",
   "excerpt": "Abstract for today.",
-  "html": "<a href=\"/assets/images/abstract21.png\">\n  <img src=\"/assets/images/scaled_abstract21.png\">\n</a>\n<p>That's what i came up with today.</p>\n",
+  "html": "<a href=\"/assets/images/abstract21.png\">\n  <img src=\"/assets/images/abstract21.png\">\n</a>\n<p>That's what i came up with today.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract 21"

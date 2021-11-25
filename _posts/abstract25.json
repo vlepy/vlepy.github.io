@@ -1,7 +1,7 @@
 {
   "date": "2021-11-15T20:09:00.000Z",
   "excerpt": "Evening GIMPin'",
-  "html": "<a href=\"/assets/images/abstract25.png\">\n  <img src=\"/assets/images/scaled_abstract25.png\">\n</a>\n<p>This time lighter on colors.</p>\n",
+  "html": "<a href=\"/assets/images/abstract25.png\">\n  <img src=\"/assets/images/abstract25.png\">\n</a>\n<p>This time lighter on colors.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract 25"

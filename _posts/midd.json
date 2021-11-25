@@ -1,7 +1,7 @@
 {
   "date": "2021-07-04T23:31:00.000Z",
   "excerpt": "Another pic",
-  "html": "<a href=\"/assets/images/midd.png\">\n  <img src=\"/assets/images/scaled_midd.png\">\n</a>\n<p>So depressed.</p>\n",
+  "html": "<a href=\"/assets/images/midd.png\">\n  <img src=\"/assets/images/midd.png\">\n</a>\n<p>So depressed.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Middimentional"
