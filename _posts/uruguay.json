@@ -1,7 +1,7 @@
 {
   "date": "2018-12-13T23:33:00.000Z",
   "excerpt": "SVG art",
-  "html": "<object data=\"/assets/images/uruguay.svg\" type=\"image/svg+xml\" width=\"500\">\n  <img src=\"/assets/images/uruguay.png\" />\n</object>",
+  "html": "<object data=\"/assets/images/uruguay.svg\" type=\"image/svg+xml\">\n  <img src=\"/assets/images/uruguay.png\" />\n</object>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Instant pati"

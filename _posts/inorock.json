@@ -1,7 +1,7 @@
 {
   "date": "2019-08-27T02:08:00.000Z",
   "excerpt": "Just a panorama picture made during last Ino Rock Festival i went to. ",
-  "html": "<a href=\"/assets/images/inorockpanorama.png\">\n  <img src=\"/assets/images/inorockpanorama.png\" width=\"600\">\n</a>\n<p>Weather was fine, crowd mature ( even too mature ), beer tasty but expensive, music good but bit too slow and soft for my taste. shrug i guess you can't have it all.</p>\n",
+  "html": "<a href=\"/assets/images/inorockpanorama.png\">\n  <img src=\"/assets/images/inorockpanorama.png\">\n</a>\n<p>Weather was fine, crowd mature ( even too mature ), beer tasty but expensive, music good but bit too slow and soft for my taste. shrug i guess you can't have it all.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Ino Rock Panorama"

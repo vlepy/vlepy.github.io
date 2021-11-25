@@ -1,7 +1,7 @@
 {
   "date": "2018-11-26T06:46:00.000Z",
   "excerpt": "Just a pic",
-  "html": "<p><a href=\"/assets/images/kishones.jpg\"><img src=\"/assets/images/kishones.jpg\" width=\"600\"></a></p>\n<p>Just a jar of kishones. Pickled, fermented cucumbers, popular in Poland, I call it &quot;The Soviet Nuka-Cola&quot;.</p>\n<p>\nSome foreigner told me once he'll give me $5 if I eat one. I'd actually pay to get them.",
+  "html": "<p><a href=\"/assets/images/kishones.jpg\"><img src=\"/assets/images/kishones.jpg\"></a></p>\n<p>Just a jar of kishones. Pickled, fermented cucumbers, popular in Poland, I call it &quot;The Soviet Nuka-Cola&quot;.</p>\n<p>\nSome foreigner told me once he'll give me $5 if I eat one. I'd actually pay to get them.\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Kishones"

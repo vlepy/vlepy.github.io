@@ -1,7 +1,7 @@
 {
   "date": "2019-03-15T14:48:00.000Z",
   "excerpt": "Another CD-made sticker",
-  "html": "<p><img src=\"/assets/images/DUCK.png\" width=\"600\"><p>\n<a href=\"/assets/images/DUCK.cdr\">Source</a></p>\n",
+  "html": "<p><img src=\"/assets/images/DUCK.png\"><p>\n<a href=\"/assets/images/DUCK.cdr\">Source</a></p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "KGB"

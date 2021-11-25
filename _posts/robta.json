@@ -1,7 +1,7 @@
 {
   "date": "2021-10-05T05:17:00.000Z",
   "excerpt": "Co chceta",
-  "html": "<a href=\"/assets/images/robta.jpg\">\n  <img src=\"/assets/images/robta.jpg\" width=\"600\">\n</a>\n<p>A tag from around.</p>\n",
+  "html": "<a href=\"/assets/images/robta.jpg\">\n  <img src=\"/assets/images/robta.jpg\">\n</a>\n<p>A tag from around.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Róbta"

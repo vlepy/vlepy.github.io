@@ -1,7 +1,7 @@
 {
   "date": "2021-11-07T20:14:00.000Z",
   "excerpt": "Once again.",
-  "html": "<a href=\"/assets/images/abstract22.png\">\n  <img src=\"/assets/images/scaled_abstract22.png\" width=\"600\">\n</a>\n<p>I really need to write a poem now instead, bored of gimping all the time.</p>\n",
+  "html": "<a href=\"/assets/images/abstract22.png\">\n  <img src=\"/assets/images/scaled_abstract22.png\">\n</a>\n<p>I really need to write a poem now instead, bored of gimping all the time.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract 22"

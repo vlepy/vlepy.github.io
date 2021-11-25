@@ -1,7 +1,7 @@
 {
   "date": "2020-04-01T22:09:00.000Z",
   "excerpt": "A wallapaper",
-  "html": "<a href=\"/assets/images/aurora.png\">\n  <img src=\"/assets/images/aurora.png\" width=\"600\">\n</a>\n<p>Another hd wallpaper, created with GIMP.</p>\n",
+  "html": "<a href=\"/assets/images/aurora.png\">\n  <img src=\"/assets/images/aurora.png\">\n</a>\n<p>Another hd wallpaper, created with GIMP.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Aurora"
