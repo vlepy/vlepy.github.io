@@ -1,7 +1,7 @@
 {
   "date": "2021-04-06T17:58:00.000Z",
   "excerpt": "A picture of my current setup",
-  "html": "<a href=\"/assets/images/hsh.png\">\n  <img src=\"/assets/images/hsh.png\">\n</a>\n<p>\\o/</p>\n",
+  "html": "<a href=\"/assets/images/hsh.png\">\n  <img src=\"/assets/images/hsh.png\" width=\"600\">\n</a>\n<p>\\o/</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Home Sweet Home"

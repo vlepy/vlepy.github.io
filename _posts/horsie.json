@@ -1,7 +1,7 @@
 {
   "date": "2018-12-16T04:55:00.000Z",
   "excerpt": "Bit disturbing too",
-  "html": "<p><a href=\"/assets/images/dead_horse.png\"><img src=\"/assets/images/dead_horse.jpg\"></a></p>\n",
+  "html": "<p><a href=\"/assets/images/dead_horse.png\"><img src=\"/assets/images/dead_horse.jpg\" width=\"600\"></a></p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "A random pic from the past"

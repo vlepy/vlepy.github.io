@@ -1,7 +1,7 @@
 {
   "date": "2018-12-25T13:50:00.000Z",
   "excerpt": "Walking away",
-  "html": "<p><a href=\"/assets/images/parents.png\"><img src=\"/assets/images/parents.jpg\"></a></p>\n<p>Along with the nature.</p>\n",
+  "html": "<p><a href=\"/assets/images/parents.png\"><img src=\"/assets/images/parents.jpg\" width=\"600\"></a></p>\n<p>Along with the nature.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "My parents"

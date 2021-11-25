@@ -1,7 +1,7 @@
 {
   "date": "2018-12-13T19:39:00.000Z",
   "excerpt": "A pic",
-  "html": "<p><a href=\"/assets/images/apples.png\"><img src=\"/assets/images/appless.jpg\"></a></p>\n<p>November 2016</p>\n",
+  "html": "<p><a href=\"/assets/images/apples.png\"><img src=\"/assets/images/appless.jpg\" width=\"600\"></a></p>\n<p>November 2016</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Bunch of apples"

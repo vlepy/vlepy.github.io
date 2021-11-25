@@ -1,7 +1,7 @@
 {
   "date": "2021-07-09T01:39:00.000Z",
   "excerpt": "Ready to sell",
-  "html": "<a href=\"/assets/images/product.png\">\n  <img src=\"/assets/images/product.png\">\n</a>\n<p>The first product of mine done.Gonna sell them as souvenirs.</p>\n",
+  "html": "<a href=\"/assets/images/product.png\">\n  <img src=\"/assets/images/scaled_product.png\" width=\"600\">\n</a>\n<p>The first product of mine done.Gonna sell them as souvenirs.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract 5"

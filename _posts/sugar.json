@@ -1,7 +1,7 @@
 {
   "date": "2021-07-09T01:39:00.000Z",
   "excerpt": "The usual GIMPing",
-  "html": "<a href=\"/assets/images/sugar.png\">\n  <img src=\"/assets/images/sugar.png\">\n</a>\n<p>Waaay too much sugar.</p>\n",
+  "html": "<a href=\"/assets/images/sugar.png\">\n  <img src=\"/assets/images/scaled_sugar.png\" width=\"600\">\n</a>\n<p>Waaay too much sugar.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Too Much Sugar"

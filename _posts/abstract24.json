@@ -1,7 +1,7 @@
 {
   "date": "2021-11-12T00:39:00.000Z",
   "excerpt": "Night GIMPin'",
-  "html": "<a href=\"/assets/images/abstract24.png\">\n  <img src=\"/assets/images/abstract24.png\">\n</a>\n<p>Color injection straight into your blood stream.</p>\n",
+  "html": "<a href=\"/assets/images/abstract24.png\">\n  <img src=\"/assets/images/scaled_abstract24.png\" width=\"600\">\n</a>\n<p>Color injection straight into your blood stream.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract 24"

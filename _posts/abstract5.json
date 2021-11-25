@@ -1,7 +1,7 @@
 {
   "date": "2021-06-11T19:06:00.000Z",
   "excerpt": "GIMP again",
-  "html": "<a href=\"/assets/images/abstract5.png\">\n  <img src=\"/assets/images/abstract5.png\">\n</a>\n<p>Well, one has to do something.</p>\n",
+  "html": "<a href=\"/assets/images/abstract5.png\">\n  <img src=\"/assets/images/scaled_abstract5.png\" width=\"600\">\n</a>\n<p>Well, one has to do something.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "The Abstract 5"

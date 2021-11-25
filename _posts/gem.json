@@ -1,7 +1,7 @@
 {
   "date": "2020-04-02T00:41:00.000Z",
   "excerpt": "Just some odd improvisation of mine",
-  "html": "<a href=\"/assets/images/gem.png\">\n  <img src=\"/assets/images/gem.png\">\n</a>\n<p>Hm</p>\n",
+  "html": "<a href=\"/assets/images/gem.png\">\n  <img src=\"/assets/images/gem.png\" width=\"600\">\n</a>\n<p>Hm</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "A gem"

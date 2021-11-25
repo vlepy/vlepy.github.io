@@ -1,7 +1,7 @@
 {
   "date": "2021-10-20T18:55:00.000Z",
   "excerpt": "Hmmm",
-  "html": "<a href=\"/assets/images/abstract14.png\">\n  <img src=\"/assets/images/abstract14.png\">\n</a>\n<p>Chillier.</p>\n",
+  "html": "<a href=\"/assets/images/abstract14.png\">\n  <img src=\"/assets/images/scaled_abstract14.png\" width=\"600\">\n</a>\n<p>Chillier.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract 14"

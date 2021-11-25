@@ -1,7 +1,7 @@
 {
   "date": "2021-07-01T01:21:00.000Z",
   "excerpt": "My current setup",
-  "html": "<a href=\"/assets/images/setup.png\">\n  <img src=\"/assets/images/setup.png\">\n</a>\n<p>My current setup, sorry for bad cable management.</p>\n",
+  "html": "<a href=\"/assets/images/setup.png\">\n  <img src=\"/assets/images/setup.png\" width=\"600\">\n</a>\n<p>My current setup, sorry for bad cable management.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Setup\t"

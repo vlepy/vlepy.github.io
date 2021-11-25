@@ -1,7 +1,7 @@
 {
   "date": "2021-06-30T14:11:00.000Z",
   "excerpt": "Abstract 5 out of printing house",
-  "html": "<a href=\"/assets/images/print.png\">\n  <img src=\"/assets/images/print.png\">\n</a>\n<p>Waiting for the 25cmx25cm antifrimes and i'm ready to sell souvenirs!</p>\n",
+  "html": "<a href=\"/assets/images/print.png\">\n  <img src=\"/assets/images/print.png\" width=\"600\">\n</a>\n<p>Waiting for the 25cmx25cm antifrimes and i'm ready to sell souvenirs!</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract 5 printed"

@@ -556,10 +556,9 @@ Pośród innych straceńców. Po wieki.&lt;/p&gt;
     <link href="https://vlepy.github.io/2018/11/06/rabbit.html"/>
     <updated>2018-11-06T14:30:00+01:00</updated>
     <id>https://vlepy.github.io/2018/11/06/rabbit.html</id>
-    <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/chubby_bunny.svg&quot;&gt;
+    <content type="html">&lt;object data=&quot;https://vlepy.github.io/assets/images/chubby_bunny.svg&quot; type=&quot;image/svg+xml&quot;&gt;
   &lt;img src=&quot;https://vlepy.github.io/assets/images/chubby_bunny.png&quot;&gt;
-&lt;/a&gt;
-</content>
+&lt;/object&gt;</content>
   </entry>
   
   <entry>
@@ -567,10 +566,9 @@ Pośród innych straceńców. Po wieki.&lt;/p&gt;
     <link href="https://vlepy.github.io/2018/11/07/butterfly.html"/>
     <updated>2018-11-07T14:14:00+01:00</updated>
     <id>https://vlepy.github.io/2018/11/07/butterfly.html</id>
-    <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/motyl.svg&quot;&gt;
+    <content type="html">&lt;object data=&quot;https://vlepy.github.io/assets/images/motyl.svg&quot; type=&quot;image/svg+xml&quot; width=&quot;650&quot; height=&quot;400&quot;&gt;
   &lt;img src=&quot;https://vlepy.github.io/assets/images/motyl.png&quot;&gt;
-&lt;/a&gt;
-</content>
+&lt;/object&gt;</content>
   </entry>
   
   <entry>
@@ -578,10 +576,19 @@ Pośród innych straceńców. Po wieki.&lt;/p&gt;
     <link href="https://vlepy.github.io/2018/11/07/alien.html"/>
     <updated>2018-11-07T21:12:00+01:00</updated>
     <id>https://vlepy.github.io/2018/11/07/alien.html</id>
-    <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/alien.svg&quot;&gt;
+    <content type="html">&lt;object data=&quot;https://vlepy.github.io/assets/images/alien.svg&quot; type=&quot;image/svg+xml&quot; width=&quot;500&quot; height=&quot;800&quot;&gt;
   &lt;img src=&quot;https://vlepy.github.io/assets/images/alien.png&quot;&gt;
-&lt;/a&gt;
-</content>
+&lt;/object&gt;</content>
+  </entry>
+  
+  <entry>
+    <title>Chaos</title>
+    <link href="https://vlepy.github.io/2018/11/07/chaos.html"/>
+    <updated>2018-11-07T21:25:00+01:00</updated>
+    <id>https://vlepy.github.io/2018/11/07/chaos.html</id>
+    <content type="html">&lt;object data=&quot;https://vlepy.github.io/assets/images/chaos.svg&quot; type=&quot;image/svg+xml&quot; width=&quot;650&quot; height=&quot;650&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/chaos.png&quot;&gt;
+&lt;/object&gt;</content>
   </entry>
   
   <entry>
@@ -589,10 +596,9 @@ Pośród innych straceńców. Po wieki.&lt;/p&gt;
     <link href="https://vlepy.github.io/2018/11/07/cerber.html"/>
     <updated>2018-11-07T22:41:00+01:00</updated>
     <id>https://vlepy.github.io/2018/11/07/cerber.html</id>
-    <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/cerber.svg&quot;&gt;
+    <content type="html">&lt;object data=&quot;https://vlepy.github.io/assets/images/cerber.svg&quot; type=&quot;image/svg+xml&quot; width=&quot;650&quot; height=&quot;650&quot;&gt;
   &lt;img src=&quot;https://vlepy.github.io/assets/images/cerber.png&quot;&gt;
-&lt;/a&gt;
-</content>
+&lt;/object&gt;</content>
   </entry>
   
   <entry>
@@ -600,10 +606,9 @@ Pośród innych straceńców. Po wieki.&lt;/p&gt;
     <link href="https://vlepy.github.io/2018/11/08/ambro%C5%BCy.html"/>
     <updated>2018-11-08T01:13:00+01:00</updated>
     <id>https://vlepy.github.io/2018/11/08/ambro%C5%BCy.html</id>
-    <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/ambro%C5%BCy.svg&quot;&gt;
+    <content type="html">&lt;object data=&quot;https://vlepy.github.io/assets/images/ambro%C5%BCy.svg&quot; type=&quot;image/svg+xml&quot; width=&quot;650&quot; height=&quot;650&quot;&gt;
   &lt;img src=&quot;https://vlepy.github.io/assets/images/ambro%C5%BCy.png&quot;&gt;
-
-&lt;/a&gt;</content>
+&lt;/object&gt;</content>
   </entry>
   
   <entry>
@@ -611,10 +616,9 @@ Pośród innych straceńców. Po wieki.&lt;/p&gt;
     <link href="https://vlepy.github.io/2018/11/08/andrzej_jarek.html"/>
     <updated>2018-11-08T02:53:00+01:00</updated>
     <id>https://vlepy.github.io/2018/11/08/andrzej_jarek.html</id>
-    <content type="html">&lt;img src=&quot;https://vlepy.github.io/assets/images/andrzej_jarek.jpg&quot;&gt;
+    <content type="html">&lt;img src=&quot;https://vlepy.github.io/assets/images/andrzej_jarek.jpg&quot; width=&quot;600&quot;&gt;
 &lt;p&gt;
-&lt;a href=&quot;https://vlepy.github.io/assets/images/andrzej_jarek.xcf&quot;&gt;Source&lt;/a&gt;
-&lt;/p&gt;</content>
+&lt;a href=&quot;https://vlepy.github.io/assets/images/andrzej_jarek.xcf&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -622,11 +626,10 @@ Pośród innych straceńców. Po wieki.&lt;/p&gt;
     <link href="https://vlepy.github.io/2018/11/26/kishones.html"/>
     <updated>2018-11-26T07:46:00+01:00</updated>
     <id>https://vlepy.github.io/2018/11/26/kishones.html</id>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/kishones.jpg&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/kishones.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/kishones.jpg&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/kishones.jpg&quot; width=&quot;600&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Just a jar of kishones. Pickled, fermented cucumbers, popular in Poland, I call it &amp;quot;The Soviet Nuka-Cola&amp;quot;.&lt;/p&gt;
 &lt;p&gt;
-Some foreigner told me once he&#39;ll give me $5 if I eat one. I&#39;d actually pay to get them.
-&lt;/p&gt;</content>
+Some foreigner told me once he&#39;ll give me $5 if I eat one. I&#39;d actually pay to get them.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -634,7 +637,7 @@ Some foreigner told me once he&#39;ll give me $5 if I eat one. I&#39;d actually 
     <link href="https://vlepy.github.io/2018/12/03/aposter.html"/>
     <updated>2018-12-03T11:39:00+01:00</updated>
     <id>https://vlepy.github.io/2018/12/03/aposter.html</id>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/keks.png&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/keks_small.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/keks.png&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/keks_small.jpg&quot; width=&quot;600&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;A poster I made some time ago, nothing less, nothing more.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/keks.xcf&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
 </content>
@@ -645,7 +648,7 @@ Some foreigner told me once he&#39;ll give me $5 if I eat one. I&#39;d actually 
     <link href="https://vlepy.github.io/2018/12/03/aliens_smoke.html"/>
     <updated>2018-12-03T12:38:00+01:00</updated>
     <id>https://vlepy.github.io/2018/12/03/aliens_smoke.html</id>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/mietki.png&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/mietki_small.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/mietki.png&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/mietki_small.jpg&quot; width=&quot;600&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;A wallpaper of mine. GIMP and Inkscape were used to manufacture it.&lt;/p&gt;
 &lt;p&gt;
 Aliens smoke / Obcy kopcą
@@ -658,7 +661,7 @@ Aliens smoke / Obcy kopcą
     <link href="https://vlepy.github.io/2018/12/04/pnp.html"/>
     <updated>2018-12-04T00:28:00+01:00</updated>
     <id>https://vlepy.github.io/2018/12/04/pnp.html</id>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/pnp.png&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/pnp.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/pnp.png&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/pnp.jpg&quot; width=&quot;600&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;A pencil &amp;amp; paper drawing of mine.&lt;/p&gt;
 </content>
   </entry>
@@ -668,7 +671,7 @@ Aliens smoke / Obcy kopcą
     <link href="https://vlepy.github.io/2018/12/05/alien_gimped.html"/>
     <updated>2018-12-05T23:44:00+01:00</updated>
     <id>https://vlepy.github.io/2018/12/05/alien_gimped.html</id>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/alien_gimped.png&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/alien_gimped.png&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/alien_gimped.png&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/alien_gimped.png&quot; width=&quot;500&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/alien_gimped.xcf&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
 </content>
   </entry>
@@ -678,10 +681,9 @@ Aliens smoke / Obcy kopcą
     <link href="https://vlepy.github.io/2018/12/06/pics.html"/>
     <updated>2018-12-06T02:41:00+01:00</updated>
     <id>https://vlepy.github.io/2018/12/06/pics.html</id>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/4.jpg&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/4rs.jpg&quot;&gt;&lt;/a&gt; &lt;a href=&quot;https://vlepy.github.io/assets/images/3.jpg&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/3rs.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/4.jpg&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/4rs.jpg&quot; width=&quot;400&quot;&gt;&lt;/a&gt; &lt;a href=&quot;https://vlepy.github.io/assets/images/3.jpg&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/3rs.jpg&quot; width=&quot;400&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&quot;https://vlepy.github.io/assets/images/2.jpg&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/2s.jpg&quot;&gt;&lt;/a&gt; &lt;a href=&quot;https://vlepy.github.io/assets/images/1.jpg&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/1s.jpg&quot;&gt;&lt;/a&gt;
-&lt;/p&gt;</content>
+&lt;a href=&quot;https://vlepy.github.io/assets/images/2.jpg&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/2s.jpg&quot; width=&quot;400&quot;&gt;&lt;/a&gt; &lt;a href=&quot;https://vlepy.github.io/assets/images/1.jpg&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/1s.jpg&quot; width=&quot;400&quot;&gt;&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -689,7 +691,7 @@ Aliens smoke / Obcy kopcą
     <link href="https://vlepy.github.io/2018/12/06/ouroboros.html"/>
     <updated>2018-12-06T10:09:00+01:00</updated>
     <id>https://vlepy.github.io/2018/12/06/ouroboros.html</id>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/ouroboros.png&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/ouroboros.png&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/ouroboros.png&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/ouroboros.png&quot; width=&quot;600&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/ouroboros.xcf&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Of course. The snake. We got it sorted now.&lt;/p&gt;
 </content>
@@ -700,7 +702,7 @@ Aliens smoke / Obcy kopcą
     <link href="https://vlepy.github.io/2018/12/09/nest.html"/>
     <updated>2018-12-09T23:10:00+01:00</updated>
     <id>https://vlepy.github.io/2018/12/09/nest.html</id>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/nest.png&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/nest_s.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/nest.png&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/nest_s.jpg&quot; width=&quot;600&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Just a wasp nest I&#39;ve neutralized.&lt;/p&gt;
 </content>
   </entry>
@@ -710,7 +712,7 @@ Aliens smoke / Obcy kopcą
     <link href="https://vlepy.github.io/2018/12/11/qt.html"/>
     <updated>2018-12-11T00:56:00+01:00</updated>
     <id>https://vlepy.github.io/2018/12/11/qt.html</id>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/qt.jpg&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/qts.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/qt.jpg&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/qts.jpg&quot; width=&quot;600&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Not that long ago in a pub not that far away.&lt;/p&gt;
 </content>
   </entry>
@@ -720,7 +722,7 @@ Aliens smoke / Obcy kopcą
     <link href="https://vlepy.github.io/2018/12/12/bloom.html"/>
     <updated>2018-12-12T00:49:00+01:00</updated>
     <id>https://vlepy.github.io/2018/12/12/bloom.html</id>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/bloom.png&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/blooms.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/bloom.png&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/blooms.jpg&quot; width=&quot;600&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Not sure what exact kind they are.&lt;/p&gt;
 </content>
   </entry>
@@ -730,7 +732,7 @@ Aliens smoke / Obcy kopcą
     <link href="https://vlepy.github.io/2018/12/13/apples.html"/>
     <updated>2018-12-13T20:39:00+01:00</updated>
     <id>https://vlepy.github.io/2018/12/13/apples.html</id>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/apples.png&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/appless.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/apples.png&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/appless.jpg&quot; width=&quot;600&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;November 2016&lt;/p&gt;
 </content>
   </entry>
@@ -740,10 +742,9 @@ Aliens smoke / Obcy kopcą
     <link href="https://vlepy.github.io/2018/12/14/uruguay.html"/>
     <updated>2018-12-14T00:33:00+01:00</updated>
     <id>https://vlepy.github.io/2018/12/14/uruguay.html</id>
-    <content type="html">&lt;object data=&quot;https://vlepy.github.io/assets/images/uruguay.svg&quot; type=&quot;image/svg+xml&quot;&gt;
+    <content type="html">&lt;object data=&quot;https://vlepy.github.io/assets/images/uruguay.svg&quot; type=&quot;image/svg+xml&quot; width=&quot;500&quot;&gt;
   &lt;img src=&quot;https://vlepy.github.io/assets/images/uruguay.png&quot;&gt;
-&lt;/object&gt;
-</content>
+&lt;/object&gt;</content>
   </entry>
   
   <entry>
@@ -751,7 +752,7 @@ Aliens smoke / Obcy kopcą
     <link href="https://vlepy.github.io/2018/12/16/horsie.html"/>
     <updated>2018-12-16T05:55:00+01:00</updated>
     <id>https://vlepy.github.io/2018/12/16/horsie.html</id>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/dead_horse.png&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/dead_horse.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/dead_horse.png&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/dead_horse.jpg&quot; width=&quot;600&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
   </entry>
   
@@ -760,7 +761,7 @@ Aliens smoke / Obcy kopcą
     <link href="https://vlepy.github.io/2018/12/25/parents.html"/>
     <updated>2018-12-25T14:50:00+01:00</updated>
     <id>https://vlepy.github.io/2018/12/25/parents.html</id>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/parents.png&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/parents.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/parents.png&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/parents.jpg&quot; width=&quot;600&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Along with the nature.&lt;/p&gt;
 </content>
   </entry>
@@ -770,7 +771,7 @@ Aliens smoke / Obcy kopcą
     <link href="https://vlepy.github.io/2018/12/28/banana.html"/>
     <updated>2018-12-28T17:24:00+01:00</updated>
     <id>https://vlepy.github.io/2018/12/28/banana.html</id>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/banana_sea.png&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/banana_sea.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/banana_sea.png&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/banana_sea.jpg&quot; width=&quot;600&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Just playing with GIMP years ago.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/banana_sea.xcf&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
 </content>
@@ -781,7 +782,7 @@ Aliens smoke / Obcy kopcą
     <link href="https://vlepy.github.io/2019/03/10/linux.html"/>
     <updated>2019-03-10T08:16:00+01:00</updated>
     <id>https://vlepy.github.io/2019/03/10/linux.html</id>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/linux.png&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/linux.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/linux.png&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/linux.jpg&quot; width=&quot;600&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Ah how lovely nix is.&lt;/p&gt;
 </content>
   </entry>
@@ -791,7 +792,7 @@ Aliens smoke / Obcy kopcą
     <link href="https://vlepy.github.io/2019/03/15/vegs.html"/>
     <updated>2019-03-15T15:42:00+01:00</updated>
     <id>https://vlepy.github.io/2019/03/15/vegs.html</id>
-    <content type="html">&lt;img src=&quot;https://vlepy.github.io/assets/images/bak1.png&quot;&gt;
+    <content type="html">&lt;img src=&quot;https://vlepy.github.io/assets/images/bak1.png&quot; width=&quot;600&quot;&gt;
 </content>
   </entry>
   
@@ -800,7 +801,7 @@ Aliens smoke / Obcy kopcą
     <link href="https://vlepy.github.io/2019/03/15/kgb.html"/>
     <updated>2019-03-15T15:48:00+01:00</updated>
     <id>https://vlepy.github.io/2019/03/15/kgb.html</id>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/DUCK.png&quot;&gt;&lt;/p&gt;&lt;p&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/DUCK.png&quot; width=&quot;600&quot;&gt;&lt;/p&gt;&lt;p&gt;
 &lt;a href=&quot;https://vlepy.github.io/assets/images/DUCK.cdr&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
 </content>
   </entry>
@@ -810,7 +811,7 @@ Aliens smoke / Obcy kopcą
     <link href="https://vlepy.github.io/2019/04/01/r%C4%85bin.html"/>
     <updated>2019-04-01T04:50:00+02:00</updated>
     <id>https://vlepy.github.io/2019/04/01/r%C4%85bin.html</id>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/rabin.jpg&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/rabin.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/rabin.jpg&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/rabin.jpg&quot; width=&quot;600&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;My old neighbourhood in national colors.&lt;/p&gt;
 </content>
   </entry>
@@ -820,7 +821,7 @@ Aliens smoke / Obcy kopcą
     <link href="https://vlepy.github.io/2019/04/11/dorrah.html"/>
     <updated>2019-04-11T03:58:00+02:00</updated>
     <id>https://vlepy.github.io/2019/04/11/dorrah.html</id>
-    <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/dorrah.png&quot;&gt;
+    <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/dorrah.png&quot; width=&quot;650&quot;&gt;
   &lt;img src=&quot;https://vlepy.github.io/assets/images/dorrah.png&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;My take on politics from some time ago.&lt;/p&gt;
@@ -829,11 +830,25 @@ Aliens smoke / Obcy kopcą
   </entry>
   
   <entry>
+    <title>City On Salty Sugar For Soup</title>
+    <link href="https://vlepy.github.io/2019/04/14/elowroc%C5%82aw.html"/>
+    <updated>2019-04-14T13:31:00+02:00</updated>
+    <id>https://vlepy.github.io/2019/04/14/elowroc%C5%82aw.html</id>
+    <content type="html">&lt;object data=&quot;https://vlepy.github.io/assets/images/elowroclaw.svg&quot; type=&quot;image/svg+xml&quot; width=&quot;650&quot; height=&quot;680&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/elowroclaw.png&quot;&gt;
+&lt;/object&gt;
+&lt;p&gt;Ah the city where i come from and which ruined my life.
+The city of smug sadists, supermarkets and crime.
+Ah well, that&#39;s where i got sent to. &lt;em&gt;shrug&lt;/em&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
     <title>Pony</title>
     <link href="https://vlepy.github.io/2019/07/30/pony.html"/>
     <updated>2019-07-30T04:27:00+02:00</updated>
     <id>https://vlepy.github.io/2019/07/30/pony.html</id>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/pony.jpg&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/pony.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vlepy.github.io/assets/images/pony.jpg&quot;&gt;&lt;img src=&quot;https://vlepy.github.io/assets/images/pony.jpg&quot; width=&quot;600&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I think he was standing by to travel the universe along with me.&lt;/p&gt;
 &lt;p&gt;Photo taken during summer &#39;18.&lt;/p&gt;
@@ -846,7 +861,7 @@ Aliens smoke / Obcy kopcą
     <updated>2019-08-01T04:08:00+02:00</updated>
     <id>https://vlepy.github.io/2019/08/01/drought.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/drought.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/drought.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/drought.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Dry weather, I dont care much about the city lawns, worried more about the national crops.&lt;/p&gt;
 </content>
@@ -858,7 +873,7 @@ Aliens smoke / Obcy kopcą
     <updated>2019-08-27T04:08:00+02:00</updated>
     <id>https://vlepy.github.io/2019/08/27/inorock.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/inorockpanorama.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/inorockpanorama.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/inorockpanorama.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Weather was fine, crowd mature ( even too mature ), beer tasty but expensive, music good but bit too slow and soft for my taste. shrug i guess you can&#39;t have it all.&lt;/p&gt;
 </content>
@@ -870,7 +885,7 @@ Aliens smoke / Obcy kopcą
     <updated>2020-03-31T18:25:00+02:00</updated>
     <id>https://vlepy.github.io/2020/03/31/abstract.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Looks to me like some sort of interdimensional being having a peek.&lt;/p&gt;
 </content>
@@ -882,7 +897,7 @@ Aliens smoke / Obcy kopcą
     <updated>2020-03-31T22:22:00+02:00</updated>
     <id>https://vlepy.github.io/2020/03/31/abstract2.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract2.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract2.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract2.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;A full hd wallpaper, hope you like it.&lt;/p&gt;
 </content>
@@ -894,7 +909,7 @@ Aliens smoke / Obcy kopcą
     <updated>2020-04-02T00:09:00+02:00</updated>
     <id>https://vlepy.github.io/2020/04/02/aurora.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/aurora.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/aurora.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/aurora.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Another hd wallpaper, created with GIMP.&lt;/p&gt;
 </content>
@@ -906,7 +921,7 @@ Aliens smoke / Obcy kopcą
     <updated>2020-04-02T02:41:00+02:00</updated>
     <id>https://vlepy.github.io/2020/04/02/gem.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/gem.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/gem.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/gem.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Hm&lt;/p&gt;
 </content>
@@ -918,7 +933,7 @@ Aliens smoke / Obcy kopcą
     <updated>2020-04-09T06:23:00+02:00</updated>
     <id>https://vlepy.github.io/2020/04/09/orb.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/orb.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/orb.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/orb.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;The very officiall Orb of Vlepy&lt;/p&gt;
 </content>
@@ -930,7 +945,7 @@ Aliens smoke / Obcy kopcą
     <updated>2020-04-10T23:16:00+02:00</updated>
     <id>https://vlepy.github.io/2020/04/10/stripes.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/stripes.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/stripes.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/stripes.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;A wallpaper for today.&lt;/p&gt;
 </content>
@@ -942,7 +957,7 @@ Aliens smoke / Obcy kopcą
     <updated>2020-04-12T10:55:00+02:00</updated>
     <id>https://vlepy.github.io/2020/04/12/stripes2.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/stripes2.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/stripes2.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/stripes2.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Altered version.&lt;/p&gt;
 </content>
@@ -979,7 +994,7 @@ so i can hold you in my arms again&lt;/p&gt;
     <updated>2021-04-06T19:58:00+02:00</updated>
     <id>https://vlepy.github.io/2021/04/06/hsh.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/hsh.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/hsh.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/hsh.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;\o/&lt;/p&gt;
 </content>
@@ -991,10 +1006,10 @@ so i can hold you in my arms again&lt;/p&gt;
     <updated>2021-04-09T18:33:00+02:00</updated>
     <id>https://vlepy.github.io/2021/04/09/Quaran.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/q1.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/q1.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/q1.png&quot; width=&quot;400&quot;&gt;
 &lt;/a&gt;
 &lt;a href=&quot;https://vlepy.github.io/assets/images/q2.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/q2.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/q2.png&quot; width=&quot;400&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Print from 1986 by The National Releasing Institute&lt;/p&gt;&lt;p&gt;
 Translator: Józef Bielawski&lt;/p&gt;
@@ -1007,7 +1022,7 @@ Translator: Józef Bielawski&lt;/p&gt;
     <updated>2021-04-15T02:10:00+02:00</updated>
     <id>https://vlepy.github.io/2021/04/15/dg.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/dg.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/dg.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/dg.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;&amp;lt;3&lt;/p&gt;
 </content>
@@ -1019,10 +1034,10 @@ Translator: Józef Bielawski&lt;/p&gt;
     <updated>2021-04-22T20:07:00+02:00</updated>
     <id>https://vlepy.github.io/2021/04/22/tp.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/tp1.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/tp1.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/tp1.png&quot; width=&quot;400&quot;&gt;
 &lt;/a&gt;
 &lt;a href=&quot;https://vlepy.github.io/assets/images/tp2.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/tp2.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/tp2.png&quot; width=&quot;400&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;My new Thinkie got delivered, yay. It&#39;s the one to the right, model A285.&lt;/p&gt;
 </content>
@@ -1034,7 +1049,7 @@ Translator: Józef Bielawski&lt;/p&gt;
     <updated>2021-04-22T23:59:00+02:00</updated>
     <id>https://vlepy.github.io/2021/04/22/pond.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/pond.jpg&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/pond.jpg&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/pond.jpg&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;A picture from years ago.&lt;/p&gt;
 </content>
@@ -1070,7 +1085,7 @@ Po ostatnie tchnienie&lt;/p&gt;
     <updated>2021-06-10T00:57:00+02:00</updated>
     <id>https://vlepy.github.io/2021/06/10/abstract3.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract3.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract3.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract3.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Hope you like it.&lt;/p&gt;
 </content>
@@ -1082,7 +1097,7 @@ Po ostatnie tchnienie&lt;/p&gt;
     <updated>2021-06-11T00:58:00+02:00</updated>
     <id>https://vlepy.github.io/2021/06/11/abstract4.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract4.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract4.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract4.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Man&#39;s gotta eat.&lt;/p&gt;
 </content>
@@ -1094,7 +1109,7 @@ Po ostatnie tchnienie&lt;/p&gt;
     <updated>2021-06-11T21:06:00+02:00</updated>
     <id>https://vlepy.github.io/2021/06/11/abstract5.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract5.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract5.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract5.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Well, one has to do something.&lt;/p&gt;
 </content>
@@ -1130,7 +1145,7 @@ galaxies bloom with life&lt;/p&gt;
     <updated>2021-06-26T16:58:00+02:00</updated>
     <id>https://vlepy.github.io/2021/06/26/amber.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/amber.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/amber.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_amber.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Testing new screen while drinking loads of beer.&lt;/p&gt;
 </content>
@@ -1142,7 +1157,7 @@ galaxies bloom with life&lt;/p&gt;
     <updated>2021-06-28T04:40:00+02:00</updated>
     <id>https://vlepy.github.io/2021/06/28/fuzzy.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/fuzzy.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/fuzzy.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_fuzzy.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;So tired.&lt;/p&gt;
 </content>
@@ -1154,7 +1169,7 @@ galaxies bloom with life&lt;/p&gt;
     <updated>2021-06-29T19:29:00+02:00</updated>
     <id>https://vlepy.github.io/2021/06/29/shoal.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/shoal.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/shoal.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_shoal.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Bored and drinking.&lt;/p&gt;
 </content>
@@ -1166,7 +1181,7 @@ galaxies bloom with life&lt;/p&gt;
     <updated>2021-06-30T16:11:00+02:00</updated>
     <id>https://vlepy.github.io/2021/06/30/print.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/print.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/print.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/print.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Waiting for the 25cmx25cm antifrimes and i&#39;m ready to sell souvenirs!&lt;/p&gt;
 </content>
@@ -1178,7 +1193,7 @@ galaxies bloom with life&lt;/p&gt;
     <updated>2021-07-01T03:21:00+02:00</updated>
     <id>https://vlepy.github.io/2021/07/01/setup.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/setup.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/setup.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/setup.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;My current setup, sorry for bad cable management.&lt;/p&gt;
 </content>
@@ -1190,7 +1205,7 @@ galaxies bloom with life&lt;/p&gt;
     <updated>2021-07-03T02:33:00+02:00</updated>
     <id>https://vlepy.github.io/2021/07/03/random.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/random.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/random.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_random.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Yet another picture.&lt;/p&gt;
 </content>
@@ -1202,7 +1217,7 @@ galaxies bloom with life&lt;/p&gt;
     <updated>2021-07-05T01:31:00+02:00</updated>
     <id>https://vlepy.github.io/2021/07/05/midd.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/midd.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/midd.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_midd.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;So depressed.&lt;/p&gt;
 </content>
@@ -1214,7 +1229,7 @@ galaxies bloom with life&lt;/p&gt;
     <updated>2021-07-05T04:12:00+02:00</updated>
     <id>https://vlepy.github.io/2021/07/05/midd2.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/midd2.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/midd2.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_midd2.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Eh&lt;/p&gt;
 </content>
@@ -1226,7 +1241,7 @@ galaxies bloom with life&lt;/p&gt;
     <updated>2021-07-05T06:26:00+02:00</updated>
     <id>https://vlepy.github.io/2021/07/05/gcell.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/gcell.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/gcell.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_gcell.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Night, coffee and cigarettes.&lt;/p&gt;
 </content>
@@ -1238,7 +1253,7 @@ galaxies bloom with life&lt;/p&gt;
     <updated>2021-07-07T04:15:00+02:00</updated>
     <id>https://vlepy.github.io/2021/07/07/clockwork.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/clockwork.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/clockwork.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_clockwork.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Another mumble in GIMP.&lt;/p&gt;
 </content>
@@ -1250,7 +1265,7 @@ galaxies bloom with life&lt;/p&gt;
     <updated>2021-07-07T04:57:00+02:00</updated>
     <id>https://vlepy.github.io/2021/07/07/clockwork2.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/clockwork2.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/clockwork2.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_clockwork2.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Second variation of &amp;quot;Clockwork&amp;quot;.&lt;/p&gt;
 </content>
@@ -1262,7 +1277,7 @@ galaxies bloom with life&lt;/p&gt;
     <updated>2021-07-09T03:39:00+02:00</updated>
     <id>https://vlepy.github.io/2021/07/09/sugar.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/sugar.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/sugar.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_sugar.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Waaay too much sugar.&lt;/p&gt;
 </content>
@@ -1274,7 +1289,7 @@ galaxies bloom with life&lt;/p&gt;
     <updated>2021-07-09T03:39:00+02:00</updated>
     <id>https://vlepy.github.io/2021/07/09/abstract6.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract6.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract6.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract6.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Diazepam a little bit of beer.&lt;/p&gt;
 </content>
@@ -1286,7 +1301,7 @@ galaxies bloom with life&lt;/p&gt;
     <updated>2021-07-09T03:39:00+02:00</updated>
     <id>https://vlepy.github.io/2021/07/09/abstract7.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract7.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract7.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract7.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Oh diazepam and beer.&lt;/p&gt;
 </content>
@@ -1298,7 +1313,7 @@ galaxies bloom with life&lt;/p&gt;
     <updated>2021-07-09T03:39:00+02:00</updated>
     <id>https://vlepy.github.io/2021/07/09/product.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/product.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/product.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_product.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;The first product of mine done.Gonna sell them as souvenirs.&lt;/p&gt;
 </content>
@@ -1310,7 +1325,7 @@ galaxies bloom with life&lt;/p&gt;
     <updated>2021-07-22T08:45:00+02:00</updated>
     <id>https://vlepy.github.io/2021/07/22/blackbox.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/blackbox.jpg&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/blackbox.jpg&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_blackbox.jpg&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Bouth to mkae a stand for the products , I an almost ready to sell.&lt;/p&gt;
 </content>
@@ -1382,7 +1397,7 @@ taking hope along with itself&lt;/p&gt;
     <updated>2021-09-16T18:14:00+02:00</updated>
     <id>https://vlepy.github.io/2021/09/16/atissue.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/atissue.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/atissue.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_atissue.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Just a morning abstraction.&lt;/p&gt;
 </content>
@@ -1394,7 +1409,7 @@ taking hope along with itself&lt;/p&gt;
     <updated>2021-09-16T20:57:00+02:00</updated>
     <id>https://vlepy.github.io/2021/09/16/alternative_tissue.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/alternative_tissue.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/alternative_tissue.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_alternative_tissue.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Just another take on the previous picture.&lt;/p&gt;
 </content>
@@ -1418,7 +1433,7 @@ like there is no reason to cry&lt;/p&gt;
     <updated>2021-09-24T02:33:00+02:00</updated>
     <id>https://vlepy.github.io/2021/09/24/abstract8.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract8.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract8.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract8.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;It is what it is.&lt;/p&gt;
 </content>
@@ -1490,7 +1505,7 @@ close to pure goodness&lt;/p&gt;
     <updated>2021-10-03T10:01:00+02:00</updated>
     <id>https://vlepy.github.io/2021/10/03/abstract9.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract9.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract9.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract9.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;That&#39;s what it turned out this morning.&lt;/p&gt;
 </content>
@@ -1502,7 +1517,7 @@ close to pure goodness&lt;/p&gt;
     <updated>2021-10-05T07:17:00+02:00</updated>
     <id>https://vlepy.github.io/2021/10/05/robta.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/robta.jpg&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/robta.jpg&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/robta.jpg&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;A tag from around.&lt;/p&gt;
 </content>
@@ -1514,11 +1529,11 @@ close to pure goodness&lt;/p&gt;
     <updated>2021-10-10T21:06:00+02:00</updated>
     <id>https://vlepy.github.io/2021/10/10/js.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/js.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/js.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/js.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;
 &lt;a href=&quot;https://vlepy.github.io/assets/images/venus.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/venus.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/venus.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;/p&gt;&lt;p&gt;Jupiter to the left and Saturn to the right of the tree.&lt;/p&gt;&lt;p&gt;
 Venus in the center on the morning sky on the 2nd pic.&lt;/p&gt;
@@ -1531,7 +1546,7 @@ Venus in the center on the morning sky on the 2nd pic.&lt;/p&gt;
     <updated>2021-10-19T11:57:00+02:00</updated>
     <id>https://vlepy.github.io/2021/10/19/abstract10.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract10.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract10.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract10.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Psychedelic a little.&lt;/p&gt;
 </content>
@@ -1543,7 +1558,7 @@ Venus in the center on the morning sky on the 2nd pic.&lt;/p&gt;
     <updated>2021-10-20T12:05:00+02:00</updated>
     <id>https://vlepy.github.io/2021/10/20/abstract11.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract11.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract11.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract11.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;This one is quite larger.&lt;/p&gt;
 </content>
@@ -1555,7 +1570,7 @@ Venus in the center on the morning sky on the 2nd pic.&lt;/p&gt;
     <updated>2021-10-20T15:20:00+02:00</updated>
     <id>https://vlepy.github.io/2021/10/20/abstract12.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract12.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract12.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract12.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Actually a predecessor to &amp;quot;Abstract 11&amp;quot;, but, eventually, i decided to publish it.&lt;/p&gt;
 </content>
@@ -1567,7 +1582,7 @@ Venus in the center on the morning sky on the 2nd pic.&lt;/p&gt;
     <updated>2021-10-20T18:20:00+02:00</updated>
     <id>https://vlepy.github.io/2021/10/20/abstract13.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract13.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract13.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract13.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;I start to be creeped out by the stuff I make.&lt;/p&gt;
 </content>
@@ -1579,7 +1594,7 @@ Venus in the center on the morning sky on the 2nd pic.&lt;/p&gt;
     <updated>2021-10-20T20:55:00+02:00</updated>
     <id>https://vlepy.github.io/2021/10/20/abstract14.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract14.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract14.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract14.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Chillier.&lt;/p&gt;
 </content>
@@ -1591,7 +1606,7 @@ Venus in the center on the morning sky on the 2nd pic.&lt;/p&gt;
     <updated>2021-10-22T14:41:00+02:00</updated>
     <id>https://vlepy.github.io/2021/10/22/abstract15.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract15.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract15.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract15.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Here you go.&lt;/p&gt;
 </content>
@@ -1603,7 +1618,7 @@ Venus in the center on the morning sky on the 2nd pic.&lt;/p&gt;
     <updated>2021-10-22T16:37:00+02:00</updated>
     <id>https://vlepy.github.io/2021/10/22/abstract15p.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract15p.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract15p.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract15p.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Another variation on &amp;quot;Abstract 15&amp;quot;.&lt;/p&gt;
 </content>
@@ -1615,7 +1630,7 @@ Venus in the center on the morning sky on the 2nd pic.&lt;/p&gt;
     <updated>2021-10-24T22:29:00+02:00</updated>
     <id>https://vlepy.github.io/2021/10/24/abstract16.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract16.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract16.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract16.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Created on vodka. Cheers.&lt;/p&gt;
 </content>
@@ -1627,7 +1642,7 @@ Venus in the center on the morning sky on the 2nd pic.&lt;/p&gt;
     <updated>2021-10-25T05:30:00+02:00</updated>
     <id>https://vlepy.github.io/2021/10/25/abstract17.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract17.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract17.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract17.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Yawn, just woken up. Enjoy.&lt;/p&gt;
 </content>
@@ -1639,7 +1654,7 @@ Venus in the center on the morning sky on the 2nd pic.&lt;/p&gt;
     <updated>2021-10-25T05:30:00+02:00</updated>
     <id>https://vlepy.github.io/2021/10/25/abstract18.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract18.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract18.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract18.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Well, this is what I came up with tonight.&lt;/p&gt;
 </content>
@@ -1651,7 +1666,7 @@ Venus in the center on the morning sky on the 2nd pic.&lt;/p&gt;
     <updated>2021-11-02T10:20:00+01:00</updated>
     <id>https://vlepy.github.io/2021/11/02/abstract19.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract19.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract19.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract19.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Sipping vodka and GIMPin&#39;&lt;/p&gt;
 </content>
@@ -1663,7 +1678,7 @@ Venus in the center on the morning sky on the 2nd pic.&lt;/p&gt;
     <updated>2021-11-02T10:42:00+01:00</updated>
     <id>https://vlepy.github.io/2021/11/02/abstract19b.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract19b.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract19b.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract19b.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Another take on &amp;quot;Abstract 19&amp;quot;.&lt;/p&gt;
 </content>
@@ -1675,7 +1690,7 @@ Venus in the center on the morning sky on the 2nd pic.&lt;/p&gt;
     <updated>2021-11-02T16:37:00+01:00</updated>
     <id>https://vlepy.github.io/2021/11/02/abstract19c.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract19c.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract19c.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract19c.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Yet another variation.&lt;/p&gt;
 </content>
@@ -1687,7 +1702,7 @@ Venus in the center on the morning sky on the 2nd pic.&lt;/p&gt;
     <updated>2021-11-02T17:44:00+01:00</updated>
     <id>https://vlepy.github.io/2021/11/02/abstract19d.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract19d.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract19d.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract19d.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Another one.&lt;/p&gt;
 </content>
@@ -1699,7 +1714,7 @@ Venus in the center on the morning sky on the 2nd pic.&lt;/p&gt;
     <updated>2021-11-03T10:53:00+01:00</updated>
     <id>https://vlepy.github.io/2021/11/03/abstract20.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract20.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract20.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract20.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Leftovers from yesterday.&lt;/p&gt;
 </content>
@@ -1711,7 +1726,7 @@ Venus in the center on the morning sky on the 2nd pic.&lt;/p&gt;
     <updated>2021-11-03T16:00:00+01:00</updated>
     <id>https://vlepy.github.io/2021/11/03/anstract21.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract21.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract21.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract21.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;That&#39;s what i came up with today.&lt;/p&gt;
 </content>
@@ -1723,7 +1738,7 @@ Venus in the center on the morning sky on the 2nd pic.&lt;/p&gt;
     <updated>2021-11-06T16:53:00+01:00</updated>
     <id>https://vlepy.github.io/2021/11/06/anstract21b.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract21b.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract21b.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract21b.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Just a remix.&lt;/p&gt;
 </content>
@@ -1735,7 +1750,7 @@ Venus in the center on the morning sky on the 2nd pic.&lt;/p&gt;
     <updated>2021-11-07T21:14:00+01:00</updated>
     <id>https://vlepy.github.io/2021/11/07/anstract22.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract22.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract22.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract22.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;I really need to write a poem now instead, bored of gimping all the time.&lt;/p&gt;
 </content>
@@ -1747,7 +1762,7 @@ Venus in the center on the morning sky on the 2nd pic.&lt;/p&gt;
     <updated>2021-11-07T21:33:00+01:00</updated>
     <id>https://vlepy.github.io/2021/11/07/anstract22b.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract22b.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract22b.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract22b.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Well, it is what it is.&lt;/p&gt;&lt;p&gt;
 Dedication to slipyx since he didn&#39;t like the blue version.&lt;/p&gt;
@@ -2105,7 +2120,7 @@ the birds remained silent this morning.&lt;/p&gt;
     <updated>2021-11-11T18:53:00+01:00</updated>
     <id>https://vlepy.github.io/2021/11/11/abstract23.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract23.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract23.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract23.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Here you go.&lt;/p&gt;
 </content>
@@ -2117,7 +2132,7 @@ the birds remained silent this morning.&lt;/p&gt;
     <updated>2021-11-11T23:28:00+01:00</updated>
     <id>https://vlepy.github.io/2021/11/11/autoportrait.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/autoportrait.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/autoportrait.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_autoportrait.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;That picture was shot when i was about to autodestruct.&lt;/p&gt;
 </content>
@@ -2129,7 +2144,7 @@ the birds remained silent this morning.&lt;/p&gt;
     <updated>2021-11-12T01:39:00+01:00</updated>
     <id>https://vlepy.github.io/2021/11/12/abstract24.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract24.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract24.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract24.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Color injection straight into your blood stream.&lt;/p&gt;
 </content>
@@ -2141,7 +2156,7 @@ the birds remained silent this morning.&lt;/p&gt;
     <updated>2021-11-12T03:36:00+01:00</updated>
     <id>https://vlepy.github.io/2021/11/12/abstract24b.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract24b.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract24b.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract24b.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;I think I reached my limits for the night.&lt;/p&gt;
 </content>
@@ -2153,7 +2168,7 @@ the birds remained silent this morning.&lt;/p&gt;
     <updated>2021-11-15T21:09:00+01:00</updated>
     <id>https://vlepy.github.io/2021/11/15/abstract25.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract25.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract25.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract25.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;This time lighter on colors.&lt;/p&gt;
 </content>
@@ -2165,7 +2180,7 @@ the birds remained silent this morning.&lt;/p&gt;
     <updated>2021-11-23T23:55:00+01:00</updated>
     <id>https://vlepy.github.io/2021/11/23/abstract26.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract26.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract26.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract26.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;There you go.&lt;/p&gt;
 </content>
@@ -2177,7 +2192,7 @@ the birds remained silent this morning.&lt;/p&gt;
     <updated>2021-11-24T17:20:00+01:00</updated>
     <id>https://vlepy.github.io/2021/11/24/abstract26b.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract26b.png&quot;&gt;
-  &lt;img src=&quot;https://vlepy.github.io/assets/images/abstract26b.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract26b.png&quot; width=&quot;600&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Feel free to comment.&lt;/p&gt;
 </content>

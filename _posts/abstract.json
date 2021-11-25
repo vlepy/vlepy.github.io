@@ -1,7 +1,7 @@
 {
   "date": "2020-03-31T16:25:00.000Z",
   "excerpt": "Few minutes of work in GIMP",
-  "html": "<a href=\"/assets/images/abstract.png\">\n  <img src=\"/assets/images/abstract.png\">\n</a>\n<p>Looks to me like some sort of interdimensional being having a peek.</p>\n",
+  "html": "<a href=\"/assets/images/abstract.png\">\n  <img src=\"/assets/images/abstract.png\" width=\"600\">\n</a>\n<p>Looks to me like some sort of interdimensional being having a peek.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "The Abstract"

@@ -1,7 +1,7 @@
 {
   "date": "2021-06-26T14:58:00.000Z",
   "excerpt": "Just an improvistation in GIMP",
-  "html": "<a href=\"/assets/images/amber.png\">\n  <img src=\"/assets/images/amber.png\">\n</a>\n<p>Testing new screen while drinking loads of beer.</p>\n",
+  "html": "<a href=\"/assets/images/amber.png\">\n  <img src=\"/assets/images/scaled_amber.png\" width=\"600\">\n</a>\n<p>Testing new screen while drinking loads of beer.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Amber"

@@ -1,7 +1,7 @@
 {
   "date": "2018-11-08T01:53:00.000Z",
   "excerpt": "XCF art",
-  "html": "<img src=\"/assets/images/andrzej_jarek.jpg\">\n<p>\n<a href=\"/assets/images/andrzej_jarek.xcf\">Source</a>\n",
+  "html": "<img src=\"/assets/images/andrzej_jarek.jpg\" width=\"600\">\n<p>\n<a href=\"/assets/images/andrzej_jarek.xcf\">Source</a>",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Andrey unt Yareck"
