@@ -1,7 +1,7 @@
 {
   "date": "2018-11-07T20:12:00.000Z",
   "excerpt": "SVG art",
-  "html": "<object data=\"/assets/images/alien.svg\" type=\"image/svg+xml\">\n  <img src=\"/assets/images/alien.png\" />\n</object>\n",
+  "html": "<a href=\"/assets/images/alien.svg\">\n  <img src=\"/assets/images/alien.png\">\n</a>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Alien"
