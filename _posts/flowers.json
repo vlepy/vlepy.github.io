@@ -1,7 +1,7 @@
 {
   "date": "2021-12-02T07:00:00.000Z",
   "excerpt": "Next Spring",
-  "html": "<p>be not frightened<p>\nflowers will grow next spring<p>\neven if it was<p>\non your own grave<p></p>\n",
+  "html": "<p>be not frightened<p>\nflowers will grow next spring<p>\neven if it was<p>\non the grave of yours<p></p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Flowers"
