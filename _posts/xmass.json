@@ -1,7 +1,7 @@
 {
   "date": "2021-12-08T22:41:00.000Z",
   "excerpt": "In my apt",
-  "html": "<a href=\"/assets/images/xmass.jpg\">\n  <img src=\"/assets/images/scaled_xmass.jpg\">\n</a>\n<p>I identify with this little plastic tree.</p>\n",
+  "html": "<a href=\"/assets/images/xmass.jpg\">\n  <img src=\"/assets/images/xmass.jpg\">\n</a>\n<p>I identify with this little plastic tree.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Xmass"
