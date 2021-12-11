@@ -3,7 +3,7 @@
   <title>vlepy</title>
   <description>Cognoscetis veritatem, et veritas liberabit vos.</description>
   <link href="https://vlepy.github.io"/>
-  <updated>2021-12-10T13:23:00+01:00</updated>
+  <updated>2021-12-11T03:30:00+01:00</updated>
   <author>
     <email>mir.lesniak@gmail.com</email>
   </author>
@@ -2300,6 +2300,18 @@ the grave of yours&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
   &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract30b.png&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Just a remix.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>A Line</title>
+    <link href="https://vlepy.github.io/2021/12/11/line.html"/>
+    <updated>2021-12-11T03:30:00+01:00</updated>
+    <id>https://vlepy.github.io/2021/12/11/line.html</id>
+    <content type="html">&lt;p&gt;straight line&lt;/p&gt;&lt;p&gt;
+straight line&lt;/p&gt;&lt;p&gt;
+straight line&lt;/p&gt;&lt;p&gt;
+blank&lt;/p&gt;
 </content>
   </entry>
 </feed>
