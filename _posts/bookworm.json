@@ -1,0 +1,8 @@
+{
+  "date": "2021-12-28T23:35:00.000Z",
+  "excerpt": "In the house",
+  "html": "<a href=\"/assets/images/bookworm.png\">\n  <img src=\"/assets/images/bookworm.png\">\n</a>\n<p>&lt;3</p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Bookworm"
+}
