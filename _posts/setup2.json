@@ -1,0 +1,8 @@
+{
+  "date": "2022-01-07T16:06:00.000Z",
+  "excerpt": "This is my studio now",
+  "html": "<a href=\"/assets/images/setup2.png\">\n  <img src=\"/assets/images/setup2.png\">\n</a>\n<p>Bit dirty. Also switched from Debian to Ubuntu.</p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Setup Updated"
+}
