@@ -1,0 +1,8 @@
+{
+  "date": "2022-01-07T20:54:00.000Z",
+  "excerpt": "For a new system",
+  "html": "<a href=\"/assets/images/ubuntu.jpg\">\n  <img src=\"/assets/images/ubuntu.jpg\">\n</a>\n<p>Good quality.</p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "New sticker"
+}
