@@ -1,8 +1,0 @@
-{
-  "date": "2022-01-05T06:32:00.000Z",
-  "excerpt": "My improvement to the education system",
-  "html": "<p>Take a set of cubes<p>\nEvery cube has walls of different colors, 6 different colors each<p>\nRandomize the quantity, it might be 17 or it might be 21 cubes<p>\nInvite a 4-6 year old kid for a game<p>\nThrow the cubes randomly on a table<p>\nMake a picture of it<p>\nNow reshuffle the positions of the cubes randomly<p>\nAsk the kid to put them in the original position<p>\nTake another picture<p>\nAfter 15 minutes ask the kid how many cubes were there<p>\nFor the kid the game is over<p>\nNow examine how accurate the kid was with positioning and how well he remembers how many there were over there<p>\nHere you go, this is a simplay initial segregation recipe and a way to find brilliant people. Saves a lot of time and effort.<p>\nI'd call it Mirkov's Test</p>\n",
-  "layout": "default.njk",
-  "tags": ["meta","post"],
-  "title": "The Game of Cubes"
-}
