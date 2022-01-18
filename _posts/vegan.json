@@ -1,0 +1,8 @@
+{
+  "date": "2022-01-18T19:39:00.000Z",
+  "excerpt": "I went vegan",
+  "html": "<a href=\"/assets/images/vegan.jpg\">\n  <img src=\"/assets/images/vegan.jpg\">\n</a>\n<p>Tofu spaghetti with red beans and passata.</p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Announcement"
+}
