@@ -1,0 +1,8 @@
+{
+  "date": "2022-01-22T16:11:00.000Z",
+  "excerpt": "Soup",
+  "html": "<a href=\"/assets/images/vegan2.jpg\">\n  <img src=\"/assets/images/vegan2.jpg\">\n</a>\n<p>Tofu soup ready! Smoked tofu and veggies! Too bad I ran out of pepper so i had to use cayene.</p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Tofu"
+}
