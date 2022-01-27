@@ -1,7 +1,7 @@
 {
   "date": "2022-01-25T22:04:00.000Z",
   "excerpt": " Yet another remix",
-  "html": "<a href=\"/assets/images/abstract35c.png\">\n  <img src=\"/assets/images/scaled_abstract35c.png\">\n</a>\n<p>Dizaepam kicking in.</p>\n",
+  "html": "<a href=\"/assets/images/abstract35c.png\">\n  <img src=\"/assets/images/scaled_abstract35c.png\">\n</a>\n<p>Dizaepam kicking in...</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract 35c"
