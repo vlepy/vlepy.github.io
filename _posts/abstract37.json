@@ -1,7 +1,7 @@
 {
   "date": "2022-01-30T23:23:00.000Z",
   "excerpt": "Night GIMPing",
-  "html": "<a href=\"/assets/images/abstract37.png\">\n  <img src=\"/assets/images/scaled_abstract37.png\">\n</a>\n<p>Man i'm hungry.</p>\n",
+  "html": "<a href=\"/assets/images/abstract37.png\">\n  <img src=\"/assets/images/scaled_abstract37.png\">\n</a>\n<p>Man I'm hungry.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract 37"
