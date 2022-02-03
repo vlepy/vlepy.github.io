@@ -1,6 +1,6 @@
 {
   "date": "2022-02-03T23:45:00.000Z",
-  "excerpt": "yet another one",
+  "excerpt": "Yet another one",
   "html": "<a href=\"/assets/images/abstract39.png\">\n  <img src=\"/assets/images/scaled_abstract39.png\">\n</a>\n<p>Going bit lazy today.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
