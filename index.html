@@ -249,6 +249,8 @@
         <img alt="" border="0" src="https://www.paypalobjects.com/pl_PL/i/scr/pixel.gif" width="1" height="1">
       </form>
 	</div>
+
+
   </font>
 </div>
 
@@ -258,6 +260,14 @@
         
         <div class="home">
   <ul class="post-list">
+    
+      <li>
+        <span class="post-meta">Fri Feb 04 2022 00:25:00 GMT+0100 (Central European Standard Time)</span>
+        <h2>
+          <a class="post-link" href="/2022/02/04/rehab.html">Rehab</a>
+        </h2>
+        Some drawings i made there
+      </li>
     
       <li>
         <span class="post-meta">Thu Feb 03 2022 05:52:00 GMT+0100 (Central European Standard Time)</span>
@@ -1491,6 +1501,7 @@
 </script>
 
 
+
     <script>
   if ('serviceWorker' in navigator) {
     window.addEventListener('load', function() {
@@ -1507,5 +1518,19 @@
   js.src = 'https://connect.facebook.net/en_EN/sdk.js#xfbml=1&version=v3.2';
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
+<script>
+function closeCookieNotice() {
+	const nowDate = new Date();
+	const expireDate = new Date(nowDate.setDate(nowDate.getDate() + 30)).toUTCString();
+	document.cookie = "cookie_notice=0;path=/;expires=" + expireDate + ";";
+	document.getElementById("cookie-notice").style.display = "none";
+};
+document.addEventListener("DOMContentLoaded", function() {
+	const cookie_notice = ('; ' + document.cookie).split('; cookie_notice=').pop().split(';')[0];
+	if (cookie_notice !== "0") {
+		document.getElementById("cookie-notice").style.display = "block";
+	}
+});
+</script>
   </body>
 </html>

@@ -1,0 +1,8 @@
+{
+  "date": "2022-02-03T23:25:00.000Z",
+  "excerpt": "Some drawings i made there",
+  "html": "<a href=\"/assets/images/rehab.png\">\n  <img src=\"/assets/images/rehab.png\">\n</a>\n<p>Used to draw a lot at the therapy.</p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Rehab"
+}

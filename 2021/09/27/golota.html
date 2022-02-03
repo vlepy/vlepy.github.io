@@ -249,6 +249,8 @@
         <img alt="" border="0" src="https://www.paypalobjects.com/pl_PL/i/scr/pixel.gif" width="1" height="1">
       </form>
 	</div>
+
+
   </font>
 </div>
 
@@ -325,6 +327,7 @@ if he wanted to live</p>
 </script>
 
 
+
     <script>
   if ('serviceWorker' in navigator) {
     window.addEventListener('load', function() {
@@ -341,5 +344,19 @@ if he wanted to live</p>
   js.src = 'https://connect.facebook.net/en_EN/sdk.js#xfbml=1&version=v3.2';
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
+<script>
+function closeCookieNotice() {
+	const nowDate = new Date();
+	const expireDate = new Date(nowDate.setDate(nowDate.getDate() + 30)).toUTCString();
+	document.cookie = "cookie_notice=0;path=/;expires=" + expireDate + ";";
+	document.getElementById("cookie-notice").style.display = "none";
+};
+document.addEventListener("DOMContentLoaded", function() {
+	const cookie_notice = ('; ' + document.cookie).split('; cookie_notice=').pop().split(';')[0];
+	if (cookie_notice !== "0") {
+		document.getElementById("cookie-notice").style.display = "block";
+	}
+});
+</script>
   </body>
 </html>
