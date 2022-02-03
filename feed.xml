@@ -3,7 +3,7 @@
   <title>vlepy</title>
   <description>Cognoscetis veritatem, et veritas liberabit vos.</description>
   <link href="https://vlepy.github.io"/>
-  <updated>2022-02-03T05:13:00+01:00</updated>
+  <updated>2022-01-31T22:31:00+01:00</updated>
   <author>
     <email>mir.lesniak@gmail.com</email>
   </author>
@@ -2424,6 +2424,30 @@ inside only despair&lt;/p&gt;
   </entry>
   
   <entry>
+    <title>Some words</title>
+    <link href="https://vlepy.github.io/2022/01/12/world.html"/>
+    <updated>2022-01-12T04:38:00+01:00</updated>
+    <id>https://vlepy.github.io/2022/01/12/world.html</id>
+    <content type="html">&lt;p&gt;&amp;quot;do you know there can be a nuclear war and the world will cease to exist?&amp;quot;&lt;/p&gt;&lt;p&gt;
+&amp;quot;so let it cease to exist&amp;quot;&lt;/p&gt;&lt;p&gt;
+&amp;quot;why?&amp;quot;&lt;/p&gt;&lt;p&gt;
+&amp;quot;look around, human does not deserve it&amp;quot;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Some words</title>
+    <link href="https://vlepy.github.io/2022/01/12/life.html"/>
+    <updated>2022-01-12T04:38:00+01:00</updated>
+    <id>https://vlepy.github.io/2022/01/12/life.html</id>
+    <content type="html">&lt;p&gt;&amp;quot;do you know there can be a nuclear war and the world will cease to exist?&amp;quot;&lt;/p&gt;&lt;p&gt;
+&amp;quot;so let it cease to exist&amp;quot;&lt;/p&gt;&lt;p&gt;
+&amp;quot;why?&amp;quot;&lt;/p&gt;&lt;p&gt;
+&amp;quot;look around, human does not deserve it&amp;quot;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
     <title>Abstract 33</title>
     <link href="https://vlepy.github.io/2022/01/12/abstract33.html"/>
     <updated>2022-01-12T20:19:00+01:00</updated>
@@ -2564,18 +2588,6 @@ inside only despair&lt;/p&gt;
   &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract38.png&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Peanut butter omnomnom.&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>Life</title>
-    <link href="https://vlepy.github.io/2022/02/03/world.html"/>
-    <updated>2022-02-03T05:13:00+01:00</updated>
-    <id>https://vlepy.github.io/2022/02/03/world.html</id>
-    <content type="html">&lt;p&gt;at this point&lt;/p&gt;&lt;p&gt;
-my life has no sense&lt;/p&gt;&lt;p&gt;
-like being&lt;/p&gt;&lt;p&gt;
-in an endless void&lt;/p&gt;
 </content>
   </entry>
 </feed>
