@@ -1,0 +1,8 @@
+{
+  "date": "2022-02-04T19:59:00.000Z",
+  "excerpt": "Abstract for today",
+  "html": "<a href=\"/assets/images/abstract40.png\">\n  <img src=\"/assets/images/scaled_abstract40.png\">\n</a>\n<p>This is what turned out.</p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Abstract 40"
+}
