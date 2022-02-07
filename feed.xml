@@ -3,7 +3,7 @@
   <title>vlepy</title>
   <description>Cognoscetis veritatem, et veritas liberabit vos.</description>
   <link href="https://vlepy.github.io"/>
-  <updated>2022-02-07T05:17:00+01:00</updated>
+  <updated>2022-02-07T06:48:00+01:00</updated>
   <author>
     <email>mir.lesniak@gmail.com</email>
   </author>
@@ -2666,13 +2666,25 @@ This post isn&#39;t supposed to promote totalitary systems, it&#39;s just a piec
   
   <entry>
     <title>Abstract 43b</title>
-    <link href="https://vlepy.github.io/2022/02/07/abstract43b.html"/>
+    <link href="https://vlepy.github.io/2022/02/07/abstract43c.html"/>
     <updated>2022-02-07T05:17:00+01:00</updated>
-    <id>https://vlepy.github.io/2022/02/07/abstract43b.html</id>
+    <id>https://vlepy.github.io/2022/02/07/abstract43c.html</id>
     <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract43b.png&quot;&gt;
   &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract43b.png&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Dedicated to Trashlord since he likes the colorfull ones more.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Abstract 43c</title>
+    <link href="https://vlepy.github.io/2022/02/07/abstract43b.html"/>
+    <updated>2022-02-07T06:48:00+01:00</updated>
+    <id>https://vlepy.github.io/2022/02/07/abstract43b.html</id>
+    <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract43c.png&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract43c.png&quot;&gt;
+&lt;/a&gt;
+&lt;p&gt;Mumbling around.&lt;/p&gt;
 </content>
   </entry>
 </feed>
