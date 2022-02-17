@@ -1,7 +1,7 @@
 {
   "date": "2022-02-17T04:24:00.000Z",
-  "excerpt": "A little bit of GIMPing...",
-  "html": "<a href=\"/assets/images/abstract47.png\">\n  <img src=\"/assets/images/scaled_abstract47.png\">\n</a>\n<p>Just another abstraction.</p>\n",
+  "excerpt": "A little bit of GIMPing",
+  "html": "<a href=\"/assets/images/abstract47.png\">\n  <img src=\"/assets/images/scaled_abstract47.png\">\n</a>\n<p>Just another abstraction...</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract 47"
