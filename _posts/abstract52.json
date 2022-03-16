@@ -1,0 +1,8 @@
+{
+  "date": "2022-03-16T13:30:00.000Z",
+  "excerpt": "GIMP rolling",
+  "html": "<a href=\"/assets/images/abstract52.png\">\n  <img src=\"/assets/images/scaled_abstract52.png\">\n</a>\n<p>Tried 15000x15000px this time.</p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Abstract 52"
+}
