@@ -1,0 +1,8 @@
+{
+  "date": "2022-04-06T22:43:00.000Z",
+  "excerpt": "Trying something different",
+  "html": "<a href=\"/assets/images/greyscalea.png\">\n  <img src=\"/assets/images/scaled_greyscalea.png\">\n</a>\n<p>Greyscale this time, cuz, why not.</p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Greyscale"
+}
