@@ -1,0 +1,8 @@
+{
+  "date": "2022-04-08T14:55:00.000Z",
+  "excerpt": "64's remix",
+  "html": "<a href=\"/assets/images/abstract64b.png\">\n  <img src=\"/assets/images/scaled_abstract64b.png\">\n</a>\n<p>Just a remix.</p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Abstract 64b"
+}
