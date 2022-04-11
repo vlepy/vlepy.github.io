@@ -1,0 +1,8 @@
+{
+  "date": "2022-04-11T06:06:00.000Z",
+  "excerpt": "Yawn",
+  "html": "<a href=\"/assets/images/autoportrait2.png\">\n  <img src=\"/assets/images/scaled_autoportrait2.png\">\n</a>\n<p>Rather older picture, but yeah.</p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Autoportrait 2"
+}
