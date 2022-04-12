@@ -1,7 +1,7 @@
 {
   "date": "2022-04-12T18:44:00.000Z",
   "excerpt": "A portrait of her",
-  "html": "<a href=\"/assets/images/mom.png\">\n  <img src=\"/assets/images/mom.png\">\n</a>\n<p>Thanks mom!</p>\n",
+  "html": "<a href=\"/assets/images/mom.png\">\n  <img src=\"/assets/images/mom.png\">\n</a>\n<p>Thanks mom &lt;3</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "My mother"
