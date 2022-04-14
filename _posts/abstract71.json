@@ -1,0 +1,8 @@
+{
+  "date": "2022-04-15T01:16:00.000Z",
+  "excerpt": "Another abstraction",
+  "html": "<a href=\"/assets/images/abstract71.png\">\n  <img src=\"/assets/images/scaled_abstract71.png\">\n</a>\n<p>Squares again!</p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Abstract 71"
+}
