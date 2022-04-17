@@ -1,0 +1,8 @@
+{
+  "date": "2022-04-17T17:11:00.000Z",
+  "excerpt": "A panorama",
+  "html": "<a href=\"/assets/images/cementary.jpg\">\n  <img src=\"/assets/images/scaled_cementary.jpg\">\n</a>\n<p>We visited the grave of our elders today.</p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Cementary"
+}
