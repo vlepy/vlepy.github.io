@@ -1,7 +1,7 @@
 {
   "date": "2019-08-01T02:08:00.000Z",
   "excerpt": "Thats how our grass looks like this time of the year",
-  "html": "<a href=\"/assets/images/drought.png\">\n  <img src=\"/assets/images/drought.png\">\n</a>\n<p>Dry weather, I dont care much about the city lawns, worried more about the national crops.</p>\n",
+  "html": "<a href=\"/assets/images/drought.jpg\">\n  <img src=\"/assets/images/drought.jpg\">\n</a>\n<p>Dry weather, I dont care much about the city lawns, worried more about the national crops.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Drought"

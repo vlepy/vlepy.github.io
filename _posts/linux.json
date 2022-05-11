@@ -1,7 +1,7 @@
 {
   "date": "2019-03-10T07:16:00.000Z",
   "excerpt": "Debian running MateDE",
-  "html": "<p><a href=\"/assets/images/linux.png\"><img src=\"/assets/images/linux.jpg\"></a></p>\n<p>Ah how lovely nix is.</p>\n",
+  "html": "<p><a href=\"/assets/images/linux.jpg\"><img src=\"/assets/images/linux.jpg\"></a></p>\n<p>Ah how lovely nix is.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Linux Power!"

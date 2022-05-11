@@ -1,7 +1,7 @@
 {
   "date": "2018-12-05T22:44:00.000Z",
   "excerpt": "The alien picture anchanced with GIMP",
-  "html": "<p><a href=\"/assets/images/alien_gimped.png\"><img src=\"/assets/images/alien_gimped.png\"></a></p>\n<p><a href=\"/assets/images/alien_gimped.xcf\">Source</a></p>\n",
+  "html": "<p><a href=\"/assets/images/alien_gimped.jpg\"><img src=\"/assets/images/alien_gimped.jpg\"></a></p>\n<p><a href=\"/assets/images/alien_gimped.xcf\">Source</a></p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Alien GIMP'ed"

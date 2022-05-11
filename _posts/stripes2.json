@@ -1,7 +1,7 @@
 {
   "date": "2020-04-12T08:55:00.000Z",
   "excerpt": "Another wallpaper",
-  "html": "<a href=\"/assets/images/stripes2.png\">\n  <img src=\"/assets/images/stripes2.png\">\n</a>\n<p>Altered version.</p>\n",
+  "html": "<a href=\"/assets/images/stripes2.jpg\">\n  <img src=\"/assets/images/stripes2.jpg\">\n</a>\n<p>Altered version.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Alternative Stripes"

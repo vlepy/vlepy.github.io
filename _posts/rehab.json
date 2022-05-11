@@ -1,7 +1,7 @@
 {
   "date": "2022-02-03T23:25:00.000Z",
   "excerpt": "Some drawings i made there",
-  "html": "<a href=\"/assets/images/rehab.png\">\n  <img src=\"/assets/images/rehab.png\">\n</a>\n<p>Used to draw a lot at the therapy.<p>\nThis post isn't supposed to promote totalitary systems, it's just a piece of art.</p>\n",
+  "html": "<a href=\"/assets/images/rehab.jpg\">\n  <img src=\"/assets/images/rehab.jpg\">\n</a>\n<p>Used to draw a lot at the therapy.<p>\nThis post isn't supposed to promote totalitary systems, it's just a piece of art.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Rehab"

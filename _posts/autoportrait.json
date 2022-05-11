@@ -1,7 +1,7 @@
 {
   "date": "2021-11-11T22:28:00.000Z",
   "excerpt": "It is what it is",
-  "html": "<a href=\"/assets/images/autoportrait.png\">\n  <img src=\"/assets/images/scaled_autoportrait.png\">\n</a>\n<p>That picture was shot when i was about to autodestruct.</p>\n",
+  "html": "<a href=\"/assets/images/autoportrait.jpg\">\n  <img src=\"/assets/images/scaled_autoportrait.jpg\">\n</a>\n<p>That picture was shot when i was about to autodestruct.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Autoportrait"

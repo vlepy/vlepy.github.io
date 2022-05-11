@@ -1,7 +1,7 @@
 {
   "date": "2021-06-28T02:40:00.000Z",
   "excerpt": "Tired and playing with GIMP",
-  "html": "<a href=\"/assets/images/fuzzy.png\">\n  <img src=\"/assets/images/scaled_fuzzy.png\">\n</a>\n<p>So tired.</p>\n",
+  "html": "<a href=\"/assets/images/fuzzy.jpg\">\n  <img src=\"/assets/images/scaled_fuzzy.jpg\">\n</a>\n<p>So tired.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Fuzzy"

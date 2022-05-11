@@ -1,7 +1,7 @@
 {
   "date": "2018-12-03T11:38:00.000Z",
   "excerpt": "GIMP & Inkscape artwork",
-  "html": "<p><a href=\"/assets/images/mietki.png\"><img src=\"/assets/images/mietki_small.jpg\"></a></p>\n<p>A wallpaper of mine. GIMP and Inkscape were used to manufacture it.</p>\n<p>\nAliens smoke / Obcy kopcą\n<p><a href=\"/assets/images/mietki.xcf\">Source</a></p>\n",
+  "html": "<p><a href=\"/assets/images/mietki.jpg\"><img src=\"/assets/images/mietki_small.jpg\"></a></p>\n<p>A wallpaper of mine. GIMP and Inkscape were used to manufacture it.</p>\n<p>\nAliens smoke / Obcy kopcą\n<p><a href=\"/assets/images/mietki.xcf\">Source</a></p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Just a wallpaper"
