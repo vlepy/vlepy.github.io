@@ -1,7 +1,7 @@
 {
   "date": "2022-03-23T15:15:00.000Z",
   "excerpt": "Just GIMPing",
-  "html": "<a href=\"/assets/images/abstract55.png\">\n  <img src=\"/assets/images/scaled_abstract55.png\">\n</a>\n<p>Derping. Neony.</p>\n",
+  "html": "<a href=\"/assets/images/abstract55.jpg\">\n  <img src=\"/assets/images/scaled_abstract55.jpg\">\n</a>\n<p>Derping. Neony.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract 55"

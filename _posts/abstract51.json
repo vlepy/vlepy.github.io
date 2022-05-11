@@ -1,7 +1,7 @@
 {
   "date": "2022-03-15T10:37:00.000Z",
   "excerpt": "Morning again",
-  "html": "<a href=\"/assets/images/abstract51.png\">\n  <img src=\"/assets/images/scaled_abstract51.png\">\n</a>\n<p>Sip sip sip.</p>\n",
+  "html": "<a href=\"/assets/images/abstract51.jpg\">\n  <img src=\"/assets/images/scaled_abstract51.jpg\">\n</a>\n<p>Sip sip sip.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract 51"

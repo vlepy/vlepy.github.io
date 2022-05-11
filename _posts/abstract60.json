@@ -1,7 +1,7 @@
 {
   "date": "2022-04-04T20:54:00.000Z",
   "excerpt": "Another one",
-  "html": "<a href=\"/assets/images/abstract60.png\">\n  <img src=\"/assets/images/scaled_abstract60.png\">\n</a>\n<p>Straight from the fabric.</p>\n",
+  "html": "<a href=\"/assets/images/abstract60.jpg\">\n  <img src=\"/assets/images/scaled_abstract60.jpg\">\n</a>\n<p>Straight from the fabric.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract 60"

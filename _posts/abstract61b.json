@@ -1,7 +1,7 @@
 {
   "date": "2022-04-06T15:16:00.000Z",
   "excerpt": "Dedicated to Roey",
-  "html": "<a href=\"/assets/images/roeystract.png\">\n  <img src=\"/assets/images/scaled_roeystract.png\">\n</a>\n<p>Dedicated to Roey because he wanted it to be more colorfull.</p>\n",
+  "html": "<a href=\"/assets/images/roeystract.jpg\">\n  <img src=\"/assets/images/scaled_roeystract.jpg\">\n</a>\n<p>Dedicated to Roey because he wanted it to be more colorfull.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract 61b"
