@@ -1,7 +1,7 @@
 {
   "date": "2021-10-20T13:20:00.000Z",
   "excerpt": "Hm",
-  "html": "<a href=\"/assets/images/abstract12.png\">\n  <img src=\"/assets/images/scaled_abstract12.png\">\n</a>\n<p>Actually a predecessor to &quot;Abstract 11&quot;, but, eventually, i decided to publish it.</p>\n",
+  "html": "<a href=\"/assets/images/abstract12.jpg\">\n  <img src=\"/assets/images/scaled_abstract12.jpg\">\n</a>\n<p>Actually a predecessor to &quot;Abstract 11&quot;, but, eventually, i decided to publish it.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract 12"

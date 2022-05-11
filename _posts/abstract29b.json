@@ -1,7 +1,7 @@
 {
   "date": "2021-12-08T21:29:00.000Z",
   "excerpt": "Another version of A29",
-  "html": "<a href=\"/assets/images/abstract29b.png\">\n  <img src=\"/assets/images/scaled_abstract29b.png\">\n</a>\n<p>Keepin' on jammin'.</p>\n",
+  "html": "<a href=\"/assets/images/abstract29b.jpg\">\n  <img src=\"/assets/images/scaled_abstract29b.jpg\">\n</a>\n<p>Keepin' on jammin'.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract 29b"

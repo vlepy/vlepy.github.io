@@ -1,7 +1,7 @@
 {
   "date": "2022-01-12T19:19:00.000Z",
   "excerpt": "Abstract for today",
-  "html": "<a href=\"/assets/images/abstract33.png\">\n  <img src=\"/assets/images/scaled_abstract33.png\">\n</a>\n<p>Just a little bit of gimping.</p>\n",
+  "html": "<a href=\"/assets/images/abstract33.jpg\">\n  <img src=\"/assets/images/scaled_abstract33.jpg\">\n</a>\n<p>Just a little bit of gimping.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract 33"

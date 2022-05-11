@@ -1,7 +1,7 @@
 {
   "date": "2021-12-08T20:18:00.000Z",
   "excerpt": "GIMP keeps me rollin'",
-  "html": "<a href=\"/assets/images/abstract29.png\">\n  <img src=\"/assets/images/scaled_abstract29.png\">\n</a>\n<p>Another one.</p>\n",
+  "html": "<a href=\"/assets/images/abstract29.jpg\">\n  <img src=\"/assets/images/scaled_abstract29.jpg\">\n</a>\n<p>Another one.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract 29"

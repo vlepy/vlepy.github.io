@@ -1,7 +1,7 @@
 {
   "date": "2021-12-08T16:18:00.000Z",
   "excerpt": "Another GIMPy",
-  "html": "<a href=\"/assets/images/abstract28.png\">\n  <img src=\"/assets/images/scaled_abstract28.png\">\n</a>\n<p>Here you go.</p>\n",
+  "html": "<a href=\"/assets/images/abstract28.jpg\">\n  <img src=\"/assets/images/scaled_abstract28.jpg\">\n</a>\n<p>Here you go.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract 28"

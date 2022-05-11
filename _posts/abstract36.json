@@ -1,7 +1,7 @@
 {
   "date": "2022-01-29T11:32:00.000Z",
   "excerpt": "Morning abstracrion",
-  "html": "<a href=\"/assets/images/abstract36.png\">\n  <img src=\"/assets/images/scaled_abstract36.png\">\n</a>\n<p>Sipping tea and GIMPing.</p>\n",
+  "html": "<a href=\"/assets/images/abstract36.jpg\">\n  <img src=\"/assets/images/scaled_abstract36.jpg\">\n</a>\n<p>Sipping tea and GIMPing.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract 36"

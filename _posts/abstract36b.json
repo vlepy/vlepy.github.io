@@ -1,7 +1,7 @@
 {
   "date": "2022-01-29T12:25:00.000Z",
   "excerpt": "Just a remix",
-  "html": "<a href=\"/assets/images/abstract36b.png\">\n  <img src=\"/assets/images/scaled_abstract36b.png\">\n</a>\n<p>Moar tea!</p>\n",
+  "html": "<a href=\"/assets/images/abstract36b.jpg\">\n  <img src=\"/assets/images/scaled_abstract36b.jpg\">\n</a>\n<p>Moar tea!</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract 36b"
