@@ -1,7 +1,7 @@
 {
   "date": "2022-04-18T16:29:00.000Z",
   "excerpt": "Going darker this time",
-  "html": "<a href=\"/assets/images/abstract73b.png\">\n  <img src=\"/assets/images/scaled_abstract73b.png\">\n</a>\n<p>I'm running out of pictures!</p>\n",
+  "html": "<a href=\"/assets/images/abstract73b.jpg\">\n  <img src=\"/assets/images/scaled_abstract73b.jpg\">\n</a>\n<p>I'm running out of pictures!</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract 73b"

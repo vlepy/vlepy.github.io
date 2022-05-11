@@ -1,7 +1,7 @@
 {
   "date": "2022-04-15T01:16:00.000Z",
   "excerpt": "Easter GIMPing",
-  "html": "<a href=\"/assets/images/abstract72.png\">\n  <img src=\"/assets/images/scaled_abstract72.png\">\n</a>\n<p>Yawn.</p>\n",
+  "html": "<a href=\"/assets/images/abstract72.jpg\">\n  <img src=\"/assets/images/scaled_abstract72.jpg\">\n</a>\n<p>Yawn.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract 72"

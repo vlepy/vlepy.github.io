@@ -1,7 +1,7 @@
 {
   "date": "2022-04-30T13:04:00.000Z",
   "excerpt": "Some more GIMPing",
-  "html": "<a href=\"/assets/images/abstract76.png\">\n  <img src=\"/assets/images/scaled_abstract76.png\">\n</a>\n<p>Hungry, gotta eat something.</p>\n",
+  "html": "<a href=\"/assets/images/abstract76.jpg\">\n  <img src=\"/assets/images/scaled_abstract76.jpg\">\n</a>\n<p>Hungry, gotta eat something.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract 76"

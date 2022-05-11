@@ -1,7 +1,7 @@
 {
   "date": "2022-04-10T14:47:00.000Z",
   "excerpt": "Mixing again",
-  "html": "<a href=\"/assets/images/abstract65c.png\">\n  <img src=\"/assets/images/scaled_abstract65c.png\">\n</a>\n<p>m00</p>\n",
+  "html": "<a href=\"/assets/images/abstract65c.jpg\">\n  <img src=\"/assets/images/scaled_abstract65c.jpg\">\n</a>\n<p>m00</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract 65c"
