@@ -1,0 +1,8 @@
+{
+  "date": "2022-05-30T17:44:00.000Z",
+  "excerpt": "A short poem",
+  "html": "<p>love of explosions<p>\nbright destruction<p>\nhating creation<p>\nwho needs art anyway</p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Art"
+}
