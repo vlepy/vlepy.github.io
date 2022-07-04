@@ -1,8 +1,0 @@
-{
-  "date": "2022-07-04T13:19:00.000Z",
-  "excerpt": "Another one",
-  "html": "<a href=\"/assets/images/autoportrait3.jpg\">\n  <img src=\"/assets/images/scaled_autoportrait3.jpg\">\n</a>\n<p>Here you go.</p>\n",
-  "layout": "default.njk",
-  "tags": ["meta","post"],
-  "title": "Autoportrait 3"
-}
