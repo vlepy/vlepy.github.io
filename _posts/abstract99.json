@@ -1,0 +1,8 @@
+{
+  "date": "2022-08-31T17:46:00.000Z",
+  "excerpt": "Another one",
+  "html": "<a href=\"/assets/images/abstract99.jpg\">\n  <img src=\"/assets/images/scaled_abstract99.jpg\">\n</a>\n<p>Yawnity.</p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Abstract 99"
+}
