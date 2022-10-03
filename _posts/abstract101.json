@@ -1,0 +1,8 @@
+{
+  "date": "2022-10-03T20:23:00.000Z",
+  "excerpt": "First since a while",
+  "html": "<a href=\"/assets/images/abstract101.jpg\">\n  <img src=\"/assets/images/scaled_abstract101.jpg\">\n</a>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Abstract 101"
+}
