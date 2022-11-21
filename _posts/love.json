@@ -1,7 +1,7 @@
 {
   "date": "2022-11-21T20:17:00.000Z",
   "excerpt": "SVG art",
-  "html": "<a href=\"/assets/images/love.svg\">\n  <img src=\"/assets/images/love.png\">\n</a>\n",
+  "html": "<a href=\"/assets/images/love.svg\">\n  <img src=\"/assets/images/love.png\">\n</a>\n<p>When love is considered piracy.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Love Pirates"
