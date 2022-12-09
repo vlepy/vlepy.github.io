@@ -1,7 +1,7 @@
 {
   "date": "2022-10-03T15:00:00.000Z",
   "excerpt": "Another short",
-  "html": "<p>Azure like Lane Fourteen<br>\nThe radio’s playing, the phone is ringing<br>\nCommon paradise, all directions<br>\nAll aware of the revelations</p>\n",
+  "html": "<p>Azure like Lane Fourteen<p>\nThe radio’s playing, the phone is ringing<p>\nCommon paradise, all directions<p>\nAll aware of the revelations<p></p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Lane Fourteen"
