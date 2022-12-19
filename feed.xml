@@ -3,7 +3,7 @@
   <title>vlepy</title>
   <description>It happens.</description>
   <link href="https://vlepy.github.io"/>
-  <updated>2022-12-18T00:05:00+01:00</updated>
+  <updated>2022-12-19T03:37:00+01:00</updated>
   <author>
     <email>mir.lesniak@gmail.com</email>
   </author>
@@ -4800,6 +4800,17 @@ i jest kolorowo&lt;br&gt;&lt;/p&gt;
   &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract123.jpg&quot;&gt;
 &lt;/a&gt;
 &lt;p&gt;Hm.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Abstract 124</title>
+    <link href="https://vlepy.github.io/2022/12/19/abstract124.html"/>
+    <updated>2022-12-19T03:37:00+01:00</updated>
+    <id>https://vlepy.github.io/2022/12/19/abstract124.html</id>
+    <content type="html">&lt;a href=&quot;https://vlepy.github.io/assets/images/abstract124.jpg&quot;&gt;
+  &lt;img src=&quot;https://vlepy.github.io/assets/images/scaled_abstract124.jpg&quot;&gt;
+&lt;/a&gt;
 </content>
   </entry>
 </feed>
