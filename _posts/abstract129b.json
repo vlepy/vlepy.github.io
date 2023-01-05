@@ -1,7 +1,7 @@
 {
   "date": "2023-01-05T11:57:00.000Z",
   "excerpt": "A remix",
-  "html": "<a href=\"/assets/images/abstract129b.jpg\">\n  <img src=\"/assets/images/scaled_abstract129b.jpg\">\n</a>\n",
+  "html": "<a href=\"/assets/images/abstract129b.jpg\">\n  <img src=\"/assets/images/scaled_abstract129b.jpg\">\n</a>\n<p>Just a remix.</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract 129b"
