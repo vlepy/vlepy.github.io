@@ -1,7 +1,7 @@
 {
   "date": "2022-12-29T13:32:00.000Z",
   "excerpt": "GIMPastic",
-  "html": "<a href=\"/assets/images/abstract127.jpg\">\n  <img src=\"/assets/images/scaled_abstract127.jpg\">\n</a>\n<b>\n",
+  "html": "<a href=\"/assets/images/abstract127.jpg\">\n  <img src=\"/assets/images/scaled_abstract127.jpg\">\n</a>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract 127"
