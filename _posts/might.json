@@ -1,7 +1,7 @@
 {
   "date": "2023-01-17T12:41:00.000Z",
   "excerpt": "A poem",
-  "html": "<p>was sleeping<p>\nin the dream i felt might<p>\nexternal and shocking<p>\nfilling every inch on my body<p></p>\n",
+  "html": "<p>was sleeping<p>\nin the dream i felt might<p>\nexternal and shocking<p>\nfilling every inch of my body<p></p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Might"
