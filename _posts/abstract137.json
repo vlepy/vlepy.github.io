@@ -1,7 +1,7 @@
 {
   "date": "2023-01-26T18:48:00.000Z",
   "excerpt": "Once again",
-  "html": "<a href=\"/assets/images/abstract137.jpg\">\n  <img src=\"/assets/images/scaled_abstract137.jpg\">\n</a>\n<p>GIMPing on Debian 12.</p>\n",
+  "html": "<a href=\"/assets/images/abstract137.jpg\">\n  <img src=\"/assets/images/scaled_abstract137.jpg\">\n</a>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Abstract 137"
