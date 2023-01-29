@@ -1,8 +1,8 @@
 {
   "date": "2023-01-29T17:27:00.000Z",
   "excerpt": "Some poetry",
-  "html": "<p>People come, people go<br>\nMonuments stay<br>\nGunmetal, the most durable<br>\nThe preferred material<br>\nDemolished by rockets<br>\nDestroyed by revolutions<br>\nVictim of politics<br>\nIn the end, only God remembers<br>\n<br>\n<br>\n<br>\nSpiż<br>\n<br>\nLudzie przychodzą, ludzie odchodzą<br>\nMonumenty zostają<br>\nSpiż, najtrwalszy<br>\nMateriał wyboru<br>\nDemolowany przez rakiety<br>\nNiszczony przez rewolucje<br>\nOfiara polityki<br>\nKoniec końców, tylko Bóg pamięta<br></p>\n",
+  "html": "<p>People come, people go<br>\nMonuments stay<br>\nGunmetal, the most durable<br>\nThe preferred material<br>\nDemolished by rockets<br>\nDestroyed by revolutions<br>\nVictim of politics<br>\nIn the end, only God remembers<br></p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
-  "title": "Gunmetal / Spiż"
+  "title": "Gunmetal"
 }
