@@ -1,7 +1,7 @@
 {
   "date": "2023-01-30T00:05:00.000Z",
   "excerpt": "Krótki poemat",
-  "html": "<p>Ludzie przychodzą, ludzie odchodzą<br>\nMonumenty zostają<br>\nSpiż, najtrwalszy<br>\nMateriał wyboru<br>\nDemolowany przez rakiety<br>\nNiszczony przez rewolucje<br>\nOfiara polityki<br>\nKoniec końców, tylko Bóg pamięta<br></p>\n",
+  "html": "<p>Ludzie przychodzą, ludzie odchodzą<br>\nMonumenty zostają<br>\nSpiż, najtrwalszy<br>\nMateriał wyboru<br>\nDemolowany przez rakiety<br>\nNiszczony przez rewolucje<br>\nOfiara polityki<br>\nKoniec końców, tylko Bóg pamięta<br>\n<br></p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "(PL) Spiż"
