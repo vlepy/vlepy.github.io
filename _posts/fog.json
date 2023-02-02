@@ -1,0 +1,8 @@
+{
+  "date": "2023-02-02T21:38:00.000Z",
+  "excerpt": "A poem",
+  "html": "<p>fog all around me<br>\nwalking through mudy land<br>\nevery ray of light is a blessing<br>\nwalking with no sense of direction<br>\ni need assistance<br>\nbut there is no one around<br>\nif there will be a hole before me<br>\ni will fall in</p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Fog"
+}
