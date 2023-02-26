@@ -1,0 +1,8 @@
+{
+  "date": "2023-02-26T17:12:00.000Z",
+  "excerpt": "A few old polaroid puctures",
+  "html": "<p><a href=\"/assets/images/polaroid1.png\"><img src=\"/assets/images/polaroid1.png\"></a>\n<br>\nMy parents :)\n<br>\n<br>\n<a href=\"/assets/images/polaroid2.png\"><img src=\"/assets/images/polaroid2.png\"></a>\n<br>\nGrandma in the middle, dad to the raight :)\n<br>\n<br>\n<a href=\"/assets/images/polaroid3.png\"><img src=\"/assets/images/polaroid3.png\"></a>\n<br>\nMe and an uncle to the right :)</p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Polaroid"
+}
