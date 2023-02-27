@@ -1,0 +1,8 @@
+{
+  "date": "2023-02-27T07:31:00.000Z",
+  "excerpt": "SVG art",
+  "html": "<a href=\"/assets/images/bfly.svg\">\n  <img src=\"/assets/images/bfly.png\">\n</a>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Butterfly 2"
+}
