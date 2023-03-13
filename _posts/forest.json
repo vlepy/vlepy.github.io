@@ -1,0 +1,8 @@
+{
+  "date": "2023-03-13T12:10:00.000Z",
+  "excerpt": "A poem",
+  "html": "<p>Hawks are diving<br>\nThe sun is shining<br>\nA swan is circling<br>\nA deer is dying<br>\nWhile branches crack<br>\nAnd wolves howl<br>\nA brown bear<br>\nIs eating a trout</p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "One day in a forest"
+}
