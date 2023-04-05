@@ -1,7 +1,7 @@
 {
   "date": "2023-04-05T09:00:00.000Z",
   "excerpt": "Few words",
-  "html": "<p>chitty chitty chat<br>\nlet me tell you what<br>\ni can hear you out<br>\nlets just simply start<br>\ntext, audio, video<br>\nlike digital rodeo<br>\nhey i live in Poland<br>\nand you're in Portland<br>\nwonders of technology<br>\npolitics, theology<br>\nalways something to talk about<br>\narguments happen left and right<br>\nknowing tons of people<br>\nall of this is real<br>\ni'm in my cubical<br>\nlonely and pitiful</p>\n",
+  "html": "<p>chitty chitty chat<br>\nlet me tell you what<br>\ni can hear you out<br>\nlets just simply start<br>\ntext, audio, video<br>\nlike digital rodeo<br>\nhey i live in Poland<br>\nand you're in Portland<br>\nwonders of technology<br>\npolitics, theology<br>\nsomething to talk about<br>\narguments left and right<br>\nknowing tons of people<br>\nall of this is real<br>\ni'm in my cubical<br>\nlonely and pitiful</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Rodeo"
