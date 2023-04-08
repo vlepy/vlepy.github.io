@@ -1,0 +1,8 @@
+{
+  "date": "2023-04-08T12:10:00.000Z",
+  "excerpt": "A poem",
+  "html": "<p>No one ever knew me<br>\nI died before i was born<br>\nCruel fate had no mercy<br>\nNone asked for permission<br>\nI was a drifting raft<br>\nNo match for a battleship<br>\nSomehow i keep on floating<br>\nWherever the waters take me</p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Raft"
+}
