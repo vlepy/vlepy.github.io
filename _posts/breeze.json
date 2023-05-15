@@ -1,0 +1,8 @@
+{
+  "date": "2023-05-15T09:21:00.000Z",
+  "excerpt": "A poem",
+  "html": "<a href=\"/assets/images/breeze.jpg\">\n  <img src=\"/assets/images/breeze.jpg\" width=\"50%\">\n</a>\n<p>When breeze blows<br>\nThe sun shines<br>\nWhen water smells<br>\nBirds chirp around<br>\nLoved are nearby<br>\nWorries aside<br>\nI see no gloom<br>\nAnd all is fine</p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Breeze"
+}
