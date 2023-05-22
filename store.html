@@ -331,11 +331,6 @@
       <p><input type="number" class="quantity" min="0" value="0"></p>
     </div>
     <div class="item">
-       <a href="/assets/images/abstract151.jpg"><img src="/assets/images/scaled_abstract151.jpg" alt="Abstract 151"></a>
-       <br>1m x 1m canvas print<br>$249<br>
-      <p><input type="number" class="quantity" min="0" value="0"></p>
-    </div>
-    <div class="item">
        <a href="/assets/images/abstract146.jpg"><img src="/assets/images/scaled_abstract146.jpg" alt="Abstract 146"></a>
        <br>1m x 1m canvas print<br>$249<br>
       <p><input type="number" class="quantity" min="0" value="0"></p>
@@ -442,9 +437,10 @@
     <br>
     <textarea id="orderText" required></textarea>
     <br>
-  </form>
+
     <button id="purchaseButton">Order Items</button>
-    <br><br>
+  </form>
+    <br>
     <b>After you order, pay with <a href="https://paypal.me/vlepyml">PayPal</a></b>
     <br>
 
@@ -473,7 +469,7 @@
       emailBody += 'Comments: ' + orderText;
 
       // Array of item names in the same order as the thumbnails
-      var itemNames = ['Abstract 167', 'Abstract 165','Abstract 157', 'Abstract 156', 'Abstract 154', 'Abstract 153c', 'Abstract 152', 'Abstract 151b', 'Abstract 151', 'Abstract 146', 'Abstract 141', 'Abstract 124', 'Abstract 120b', 'Abstract 119', 'Abstract 118', 'Abstract 117', 'Abstract 115', 'Abstract 114b', 'Abstract 98b', 'Abstract 97', 'Abstract 96', 'Abstract 90', 'Abstract 88', 'Abstract 78'];
+      var itemNames = ['Abstract 167', 'Abstract 165','Abstract 157', 'Abstract 156', 'Abstract 154', 'Abstract 153c', 'Abstract 152', 'Abstract 151b', 'Abstract 146', 'Abstract 141', 'Abstract 124', 'Abstract 120b', 'Abstract 119', 'Abstract 118', 'Abstract 117', 'Abstract 115', 'Abstract 114b', 'Abstract 98b', 'Abstract 97', 'Abstract 96', 'Abstract 90', 'Abstract 88', 'Abstract 78'];
 
       // Loop through each item
       for (var i = 0; i < items.length; i++) {
