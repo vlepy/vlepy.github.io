@@ -1,0 +1,502 @@
+<!doctype html>
+<html lang="en" itemscope itemtype="http://schema.org/Blog">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="manifest" href="/assets/manifest.json">
+  <link rel="icon" sizes="192x192" href="/assets/images/nova.png">
+
+  <meta property="og:url" content="/2023/06/14/6years.html">
+  <link rel="alternate" type="application/atom+xml" title="vlepy" href="/feed.xml">
+
+  <title>6 years</title>
+
+  <meta name="theme-color" content="#00bcd4">
+  <style>
+  body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    margin: 1em 15% 1em 15%;
+    padding: 0;
+    color: #cfcfcf;
+    background-color: #181818;
+  }
+
+  @media (max-width: 600px) {
+    body {
+      margin: 1em;
+    }
+  }
+
+  code {
+    font-family: "Source Code Pro", Monaco, monospace;
+  }
+
+  pre {
+    border: 2px dotted #cecece;
+    overflow-x: auto;
+    padding: 1em;
+  }
+  a:link {
+    color: #5365b5;
+  }
+  a:visited {
+    color: #d18080;
+  }
+  a {
+    color: #ffffff
+    text-decoration: none;
+  }
+  .post-link {
+    color: #7a7ac4;
+  }
+  .post-link:visited {
+    color: #d18080;
+  }
+
+  .links {
+    color: #5365b5;
+  }
+  .links:visited {
+    color: #9965b5;
+  }
+  .site-header {
+    font-family: "Source Code Pro", Monaco, monospace;
+    font-size: 2em;
+    font-style: italic;
+    margin: 1em;
+    text-align: right;
+  }
+
+  .site-header > a {
+    color: #ff1c3c;
+  }
+
+  .post-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .post-list > li {
+    border: 2px dotted #cecece;
+    border-radius: 0.5em;
+    margin: 1em;
+    padding: 1em;
+    padding-top: 0;
+  }
+
+  .post-header > a:link {
+    color: #ff1c3c;
+  }
+  .post-header > a:visited {
+    color: #d18080;
+  }
+  .post-meta {
+    font-size: 0.9em;
+    font-style: italic;
+    margin-top: -1em;
+    margin-bottom: -0.6em;
+  }
+
+  article > p a {
+    border-bottom: 1px dotted #00659d;
+  }
+
+  article > p > img {
+    max-width: 534px;
+  }
+
+  article > h2 {
+    font-size: 1.2em;
+  }
+  .youtube-embed {
+    height: 300px;
+    max-width: 100%;
+    width: 534px;
+  }
+
+  .site-footer {
+    margin-top: 1em;
+    border-top: 1px dotted #cecece;
+    display: flex;
+    flex-direction: row;
+  }
+
+  .site-footer > div {
+    margin: 0.3em;
+  }
+
+  .site-footer > div > div {
+    margin-bottom: 0.5em;
+  }
+
+  .site-footer > .links {
+    flex-basis: 30%;
+    color: #5365b5
+  }
+  .site-footer > .links:visited {
+    color: #9965b5
+  }
+
+  .site-footer > .text {
+    flex-basis: 70%;
+  }
+
+  .icon > svg {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+  }
+
+  img {
+    max-width: 70%;
+    height: auto;
+  }
+  
+  .utterances {
+    margin-left: 0px;
+    margin-top: 40px;
+    max-width: 70%;
+    height: auto;
+  }
+  
+  .timeline-header {
+    font-size: 0px;
+  }
+  
+  .tip {
+    display: inline-block;
+    vertical-align: bottom;
+  }
+  
+  .footer-right {
+    display: flex;
+    flex-direction: column;
+    margin-left: 4em;
+  }
+  
+   .footer-center {
+    float: center;
+  }
+
+@media only screen and (max-width: 810px) {
+  
+  .site-footer {
+    flex-direction: column;
+    position: static;
+    height: 100px;
+  }
+  
+   .footer-right {
+    float: left;
+    margin-left: 0.5em;
+  }
+  
+   .footer-center {
+    float: left;
+  }
+  
+    .btc-address {
+    font-size: 90%;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .utterances {
+    margin-left: 0px;
+    margin-top: 40px;
+    max-width: 100%;
+    height: auto;
+  }
+  .site-header {
+    font-family: "Source Code Pro", Monaco, monospace;
+    font-size: 1.3em;
+    font-style: italic;
+    margin: 1em;
+    text-align: right;
+  }
+}
+@media only screen and (min-width: 3840px) {
+  
+  .utterances {
+    margin-left: 0px;
+    margin-top: 40px;
+    max-width: 53%;
+    height: auto;
+  }
+}
+
+@media only screen and (min-width: 7000px) {
+  
+  .utterances {
+    margin-left: 0px;
+    margin-top: 40px;
+    max-width: 37%;
+    height: auto;
+  }
+}
+</style>
+
+</head>
+
+  <body>
+    <div class="site-header"> 
+  <a href="/">vlepy</a>
+  <font size="2" color="#b4b4b4">
+      <a href="/store"><img src="/assets/images/store.png"></a>
+  </font>
+</div>
+
+    <div class="page-content">
+      <div class="wrapper">
+        
+        <p class="post-meta">Wed Jun 14 2023 09:41:00 GMT+0200 (Central European Summer Time)</p>
+        
+        
+        <h1 class="post-header"><a href="">6 years </a></h1>
+        
+        <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=windows-1250"/>
+	<title></title>
+	<meta name="generator" content="LibreOffice 6.1.0.3 (Windows)"/>
+	<meta name="created" content="2016-08-08T21:48:28.379448969"/>
+	<meta name="changed" content="2017-12-28T14:58:51.395000000"/>
+	<style type="text/css">
+		@page { size: 21cm 29.7cm; margin: 2cm }
+		p { margin-bottom: 0.25cm; line-height: 120%; background: transparent }
+	</style>
+</head>
+<body lang="pl-PL" link="#000080" vlink="#800000" dir="ltr"><p align="center" style="margin-bottom: 0cm; line-height: 100%">
+<p align="center" style="line-height: 100%; margin-bottom: 0cm">
+Mirosław Leśniak</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm">6
+years</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">	Despair
+gushing with tears. That was the first reaction of Mal to initial day
+of school. It was bringing pity on the faces of adults. After first
+cries Mal started experiencing education with no emotion. Coming back
+home, supper, television, hygiene, sleep. 
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">	Another
+day came. Mal went to school in companion of freshly met co-students.
+They talked a bit and the classes started. During one of the class
+breaks a few guys flew to him. Mal wasn’t able to understand why
+had they kicked him in the crotch while yelling vulgar insults. He
+never complained about that.</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">	End of
+the classes. Mal spread his wings and along with other boys they went
+in direction of their homes. This time they had heavy bags full of
+books with them. He’ll never get used to that. Firs homework under
+supervision of his parents. Supper, TV, hygiene, sleep.</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">	First
+free of school weekend. With passion he was building all kinds of
+constructions using Logo, was reading improper humor magazines , daub
+computer game press and painting. Music with silence alternately
+reigned his sister room. His brother was in army.</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm">* * *</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">	Vanilla
+homogenized cheese and a fresh roll. Best breakfast ever. In addition
+to that, a mug of fresh coco. Mom always made sure that kids are
+prepared for school. She worked herself in another schooling place.
+Dad was trading chariot parts all days long. 
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">	Winter
+came, morning flights to school were being performed in the dark.
+Coming backs had no sun shining neither. This time it was a bit
+different at home. Mom wasn’t home but there was dad and one of his
+friends. They were talking, unknown what about. Dad told Mal to go to
+his room then poured something from a bottle. Mal started taking care
+of his business in his room. Playing, reading and homework.</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">	The
+homework. He hated it. They were forcing him to do it. It was
+dragging him away from the things he loved. He learned fast to cheat
+on ones who were forcing him to do it. He did everything possible to
+not get into the schoolbooks. They were taking that precious time
+left after school.</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">	School
+wasn’t all bad, it turned out that despite few bullies it was
+possible to have fun. Unfortunately, the consequence was disapproval
+of red teachers who, within range of penalty were making complains
+about Mal, or, asked questions resulting with F. After all there
+should be law and order in school so kids can learn.</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm">* * *</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">	It was
+year AD1995. All that happened before was still happening but in a
+more advanced form. On Friday 13<sup>th</sup>, Mal landed on the
+porch of his home. He opened the door to his apartment, entered his
+room, thrown the heavy bag on the floor. He got shocked. He noticed
+that there are computer components laying on his desk. That released
+excitement. He had no clue how to turn it on, however, a friend of
+his had a computer for a longer time and knew an IT guy. Mal asked
+his father to call him. That one-eyed pest shown up at his home that
+evening.</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">	The
+one-eyed locked himself alone in Mal’s room for two hours and told
+to not disturb. After that time the computer was working, DOOS and
+Winblows 3.11 were operational. The pest told dad to pay for the
+service and the games then vanished in the dark of the night.</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">	Puntium
+75. 8MB RAM, 1GB drive, 1.44MB floppy station and a SVGA card. No
+sound card nor CD-ROM at that point. Every time he entered invalid
+command the system was replying with “what are you doing, idiot”.
+Lovely. At least quite interesting games appeared over there in a
+magical way.<br/>
+<br/>
+</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm">* * *</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">No one
+came up with an idea to teach Mal, lets say, coding. It was school
+that was supposed to teach stuff and it had no IT class. IT was being
+told on the streets. They were flying from the apartment to
+apartment. Everyone held a box of floppies in their hands. Software
+called “RAR” allowed splitting compressed files into floppies, in
+its lovely, blue interface. Thanks to that there were games to play.
+Dom, Wurcraft 2. Moortal Koombat 2 were some of the popular ones.
+Warms+ also was OK. Mal played at home whenever he was able to. He
+played and played. Usually alone. Because meetings with buddies
+outside usually meant some forms of violence. Good there was fun tho.
+Fun was helping surviving the worst. 
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm">* * *</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">	</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">	Not
+everyone was able to get as good grades as the daughter of a big
+chariot driving school. Parents were not happy. Passions of Mal
+resulted in low effects in education. It turned out he’s
+overstimulated, later on they started calling this condition “ADD”.
+That meant more complains and Fs. At that point the school desks
+started being covered with sophisticated drawings of fantastic
+characters and places. Janitors every day after school carefully
+cleaned the desks so the students can peacefully use education.</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">	During
+one of the class beaks one of the female friends flew over and asked
+“Does a nut shot really hurts that much”. Mal confirmed. She flew
+to her friends, came back and said “I checked! Hurts like hell!”.
+They started liking each other. And they kept on liking each other.
+Her name was Nat.</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">	During
+the 6<sup>th</sup> year they were flying around their apartment
+building. Mal got informed that that Mar and were at Mat’s
+apartment with older friends. They played strip poker then. It turned
+out a bit shocking to Mal. That happened at the end of 6<sup>th</sup>
+school year of the elementary school. Last day of the last semester
+Mal and Or had their first beer in life, had some pizza. Sun was
+shining upon them, they spent some time with friends and generally it
+was fun.</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">	On the
+summer break he started playing Megic. The player he hanged around
+with told him the basics of the game play. Mal knew english good
+enough to understand that game. One day of the vacations Pav told
+that he would like to try marijuana with him. Mal agreed, the next
+day they smoked grass with older friends in the school area. Thy got
+baked like pigs. Junior high was already lurking after the vacations.
+He lost his sanity over there.</p>
+</body>
+</html>
+
+        <script src="https://utteranc.es/client.js"
+        repo="vlepy/vlepy.github.io"
+        issue-term="title"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+	</script>
+      </div>
+    </div>
+    <footer class="site-footer">
+  <div class="links">
+    <div><a href="mailto:mir.lesniak@gmail.com">mir.lesniak@gmail.com</a></div>
+    <div>
+      <a href="https://github.com/vlepy">
+          <span class="icon  icon--github">
+            <svg viewBox="0 0 16 16">
+              <path fill="#828282" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/>
+            </svg>
+          </span>
+        <span class="username">vlepy</span>
+      </a>
+    </div>
+      </div>
+<div class="footer-center"><div class="fb-share-button" data-href="" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fvlepy.github.io%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></div>
+
+     <div class="footer-center"><a href="https://vlepy.github.io/feed.xml"><img src="/assets/images/Rss-feed.svg "width="70vw"></a></div>
+     
+                <div class="footer-center"><a href="/btc.html"><img src="/assets/images/btc.svg" width="70vw"></a></div>
+                
+	<div class="footer-center">
+	  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <input type="hidden" name="cmd" value="_s-xclick">
+        <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----">
+        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+        <img alt="" border="0" src="https://www.paypalobjects.com/pl_PL/i/scr/pixel.gif" width="1" height="1">
+      </form>
+	</div>
+	
+<p>
+</div>
+
+  <div class="text">
+    <div class="footer-right">It happens.</div><p>
+    <div class="footer-right"><div class="license">
+  All rights reserved, copyright 2023
+</div>
+</div>
+  </div>
+ 
+</footer>
+
+
+
+
+    <script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', function() {
+      navigator.serviceWorker.register('/service-worker.js');
+    });
+  }
+</script>
+
+	<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_EN/sdk.js#xfbml=1&version=v3.2';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script>
+function closeCookieNotice() {
+	const nowDate = new Date();
+	const expireDate = new Date(nowDate.setDate(nowDate.getDate() + 30)).toUTCString();
+	document.cookie = "cookie_notice=0;path=/;expires=" + expireDate + ";";
+	document.getElementById("cookie-notice").style.display = "none";
+};
+document.addEventListener("DOMContentLoaded", function() {
+	const cookie_notice = ('; ' + document.cookie).split('; cookie_notice=').pop().split(';')[0];
+	if (cookie_notice !== "0") {
+		document.getElementById("cookie-notice").style.display = "block";
+	}
+});
+</script>
+  </body>
+</html>
