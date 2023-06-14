@@ -1,0 +1,507 @@
+<!doctype html>
+<html lang="en" itemscope itemtype="http://schema.org/Blog">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="manifest" href="/assets/manifest.json">
+  <link rel="icon" sizes="192x192" href="/assets/images/nova.png">
+
+  <meta property="og:url" content="/2023/06/14/6lat.html">
+  <link rel="alternate" type="application/atom+xml" title="vlepy" href="/feed.xml">
+
+  <title>6 lat (PL)</title>
+
+  <meta name="theme-color" content="#00bcd4">
+  <style>
+  body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    margin: 1em 15% 1em 15%;
+    padding: 0;
+    color: #cfcfcf;
+    background-color: #181818;
+  }
+
+  @media (max-width: 600px) {
+    body {
+      margin: 1em;
+    }
+  }
+
+  code {
+    font-family: "Source Code Pro", Monaco, monospace;
+  }
+
+  pre {
+    border: 2px dotted #cecece;
+    overflow-x: auto;
+    padding: 1em;
+  }
+  a:link {
+    color: #5365b5;
+  }
+  a:visited {
+    color: #d18080;
+  }
+  a {
+    color: #ffffff
+    text-decoration: none;
+  }
+  .post-link {
+    color: #7a7ac4;
+  }
+  .post-link:visited {
+    color: #d18080;
+  }
+
+  .links {
+    color: #5365b5;
+  }
+  .links:visited {
+    color: #9965b5;
+  }
+  .site-header {
+    font-family: "Source Code Pro", Monaco, monospace;
+    font-size: 2em;
+    font-style: italic;
+    margin: 1em;
+    text-align: right;
+  }
+
+  .site-header > a {
+    color: #ff1c3c;
+  }
+
+  .post-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .post-list > li {
+    border: 2px dotted #cecece;
+    border-radius: 0.5em;
+    margin: 1em;
+    padding: 1em;
+    padding-top: 0;
+  }
+
+  .post-header > a:link {
+    color: #ff1c3c;
+  }
+  .post-header > a:visited {
+    color: #d18080;
+  }
+  .post-meta {
+    font-size: 0.9em;
+    font-style: italic;
+    margin-top: -1em;
+    margin-bottom: -0.6em;
+  }
+
+  article > p a {
+    border-bottom: 1px dotted #00659d;
+  }
+
+  article > p > img {
+    max-width: 534px;
+  }
+
+  article > h2 {
+    font-size: 1.2em;
+  }
+  .youtube-embed {
+    height: 300px;
+    max-width: 100%;
+    width: 534px;
+  }
+
+  .site-footer {
+    margin-top: 1em;
+    border-top: 1px dotted #cecece;
+    display: flex;
+    flex-direction: row;
+  }
+
+  .site-footer > div {
+    margin: 0.3em;
+  }
+
+  .site-footer > div > div {
+    margin-bottom: 0.5em;
+  }
+
+  .site-footer > .links {
+    flex-basis: 30%;
+    color: #5365b5
+  }
+  .site-footer > .links:visited {
+    color: #9965b5
+  }
+
+  .site-footer > .text {
+    flex-basis: 70%;
+  }
+
+  .icon > svg {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+  }
+
+  img {
+    max-width: 70%;
+    height: auto;
+  }
+  
+  .utterances {
+    margin-left: 0px;
+    margin-top: 40px;
+    max-width: 70%;
+    height: auto;
+  }
+  
+  .timeline-header {
+    font-size: 0px;
+  }
+  
+  .tip {
+    display: inline-block;
+    vertical-align: bottom;
+  }
+  
+  .footer-right {
+    display: flex;
+    flex-direction: column;
+    margin-left: 4em;
+  }
+  
+   .footer-center {
+    float: center;
+  }
+
+@media only screen and (max-width: 810px) {
+  
+  .site-footer {
+    flex-direction: column;
+    position: static;
+    height: 100px;
+  }
+  
+   .footer-right {
+    float: left;
+    margin-left: 0.5em;
+  }
+  
+   .footer-center {
+    float: left;
+  }
+  
+    .btc-address {
+    font-size: 90%;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .utterances {
+    margin-left: 0px;
+    margin-top: 40px;
+    max-width: 100%;
+    height: auto;
+  }
+  .site-header {
+    font-family: "Source Code Pro", Monaco, monospace;
+    font-size: 1.3em;
+    font-style: italic;
+    margin: 1em;
+    text-align: right;
+  }
+}
+@media only screen and (min-width: 3840px) {
+  
+  .utterances {
+    margin-left: 0px;
+    margin-top: 40px;
+    max-width: 53%;
+    height: auto;
+  }
+}
+
+@media only screen and (min-width: 7000px) {
+  
+  .utterances {
+    margin-left: 0px;
+    margin-top: 40px;
+    max-width: 37%;
+    height: auto;
+  }
+}
+</style>
+
+</head>
+
+  <body>
+    <div class="site-header"> 
+  <a href="/">vlepy</a>
+  <font size="2" color="#b4b4b4">
+      <a href="/store"><img src="/assets/images/store.png"></a>
+  </font>
+</div>
+
+    <div class="page-content">
+      <div class="wrapper">
+        
+        <p class="post-meta">Wed Jun 14 2023 05:14:00 GMT+0200 (Central European Summer Time)</p>
+        
+        
+        <h1 class="post-header"><a href="">6 lat (PL) </a></h1>
+        
+        <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=windows-1250"/>
+	<title></title>
+	<meta name="generator" content="LibreOffice 6.1.0.3 (Windows)"/>
+	<meta name="created" content="2016-08-08T21:48:28.379448969"/>
+	<meta name="changed" content="2017-12-28T14:58:51.395000000"/>
+	<style type="text/css">
+		@page { size: 21cm 29.7cm; margin: 2cm }
+		p { margin-bottom: 0.25cm; line-height: 120%; background: transparent }
+	</style>
+</head>
+<body lang="pl-PL" link="#000080" vlink="#800000" dir="ltr"><p align="center" style="margin-bottom: 0cm; line-height: 100%">
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">	Tryskająca
+łzami rozpacz. Taka była Reakcja Mal na pierwszy dzień szkoły.
+Budziło to politowanie u dorosłych którzy nie bacząc na łzy
+zaciągnęli go do budy. Po początkowym pochlipiwaniu Mal
+bezemocjonalnie zaczął doświadczać edukacji. Powrót do domu,
+kolacja, telewizja, higiena, sen. 
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">	Przyszedł
+kolejny dzień, Mal obojętnie udał się do szkoły w towarzystwie
+właśnie co pozwanych współuczniów. Wymienili kilka zdań,
+zaczęły się lekcje. Na jednej ze przerw podleciało do niego kilku
+nieznanych chłopców. Mal nie mógł zrozumieć dlaczego właśnie
+kopnięto go w krocze przy akompaniamencie wulgarnych wyzwisk. Nigdy
+się na to nie skarżył.</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">	Koniec
+lekcji. Mal rozwinął skrzydła i wraz z innymi chłopcami udali się
+w kierunku ich domów. Tym razem mieli ze sobą ciężkie torby
+wypełnione książkami. Nigdy do tego nie przywyknie. Pierwsze
+zadania domowe pod uważnym okiem rodziców. Kolacja, telewizja,
+higiena, sen.</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">	Pierwszy
+weekend wolny od szkoły. Z pasją budował przeróżne konstrukcje z
+klocków, zaczytywał się z pasją w niepoprawnych magazynach z
+humorem i kiczowatych magazynach o grach komputerowych, malowaniem. W
+pokoju siostry naprzemiennie panowały muzyka z ciszą. Brat był w
+wojsku.</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
+</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm">* * *</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">	Waniliowy
+serek homogenizowany i świeża bułka. Nie było lepszego śniadania.
+Do tego kubek ciepłego kakao. Mama dbała o to aby dzieci były
+przygotowane do szkoły. Sama pracowała wtedy w innej placówce
+oświaty. Ojciec cały dzień handlował częściami do rydwanów.</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">	Nastała
+zima, loty do szkoły rankiem musiały odbywać się w mroku. Powroty
+również nie przebiegały w blasku słońca. W domu tym razem było
+inaczej. Kiedy Mal wrócił ze szkoły nie zastał mamy ale ojca i
+jednego z jego kolegów. Prowadzili rozmowę, nie wiedział o czym.
+Ojciec nakazał iść do pokoju po czym nalał coś z butelki. Mal
+zajął się swoimi sprawami w pokoju. Zabawą, lekturą i zadaniami
+domowymi. 
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">	Zadania
+domowe. Nienawidził ich. Zmuszano go do wykonywania tej czynności.
+Odrywały go od tego co kochał. Szybko zaczął prób oszukania
+każdego który go do nich zmuszał. Robił wszystko żeby nie
+zaglądać do podręczników. Zabierały cenny czas którego było
+tak mało po szkole.</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">	Szkoła
+nie była taka zła, okazało się, że pomimo kilku dręczycieli
+można tam zwyczajnie robić jaja. Niestety wiązało się to z
+dezaprobatą czerwonych nauczycieli którzy skrupulatnie wpisywali
+uwagi do dzienników lub, w ramach kary, wzywali do tablicy co
+kończyło się nagannym. Przecież w klasie musiał panować ład i
+porządek a dzieci musiały się uczyć. 
+</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
+</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm">* * *</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">	Był
+rok AD1995. Wszystko co działo się do tej pory działo się nadal,
+jedynie w bardziej zaawansowanej formie. Był piątek trzynastego,
+Mal wylądował na progu swojego domu. Otworzył drzwi do mieszkania,
+wszedł prosto do swojego pokoju, rzucił ciążącą mu torbę na
+podłogę. Wpadł w lekki szok. Zauważył, że na jego biurku
+spoczywają komponenty komputera. Wyzwoliło to ekscytację. Nie
+wiedział jak to uruchomić, jednak jeden z jego kolegów miał
+komputer od dłuższego czasu i znał informatyka. Mal poprosił ojca
+aby do niego zadzwonił. Wieczorem na jednooka menda była już u
+nich w mieszkaniu.</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">	Jednooki
+zamknął się w pokoju na dwie godziny i kazał nie przeszkadzać.
+Po upływie tego czasu komp był sprawny DOOS i Winblows 3.11
+działały. Menda kazała zapłacić za usługę oraz gry i znikneła
+w mroku nocy.</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">	Puntium
+75, 8MB pamięci, Dysk 1GB, stacja dyskietek 1.44MB, karta SVGA. Brak
+dźwiękówki czy CD-ROM na tamtą chwilę. Za każdym razem kiedy
+wpisywał błędne polecenie w DOOS system odpowiadał „co robisz
+idioto??”. Słodkie. Przynajmniej magicznie pojawiło się tam
+wiele ciekawych gier.</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm">* * *</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">	Nikt
+nie wpdał na to aby uczyć mal powiedzmy programowania. Od nauki
+była szkoła a tam nie było informatyki. Informatyka byłą na
+ulicy. Latali od mieszkania do mieszkania. Każdy dzierżył paczkę
+dyskietek. Program rar w niebieskim interfejsie umożliwiał
+pakowanie i dzielenie danych na paczki pozwalające na transport na
+dyskietkach 1.44MB. Było dzięki temu w co grać. Królowały wtedy
+Dom, Wurcraft 2, Moortal Koombat i inne. Warms+ też był niczego
+sobie. Mal zagrywał się w domu kiedy mógł. Grał. I grał.
+Najczęściej sam. Bo spotkania z kolegami na podwórku kończyły
+się różnymi formami przemocy. Dobrze jednak, że były jaja. Jaja
+pozwalały przetrwać najgorsze.</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
+</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm">* * *</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">	Nie
+każdy mógł sobie tak dobrze radzić jak ta córka właściciela
+dużej placówki nauki jazdy rydwanem. Rodzice nie byli zadowoleni.
+Pasje Mal owocowały słabymi wynikami w nauce. Okazało się też,
+że jest nadpobudliwy, później nazywano to ADHD. Oznaczało to
+więcej uwag i nagannych z odpytywania. Wtedy już ławki w szkole
+pokrywały się wyszukanymi rysunkami fantastycznych postaci i
+miejsc. Woźne skrupulatnie każdego dnia po zajęciach czyściły
+ławki aby dzieci mogły spokojnie korzystać z edukacji. 
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">	Na
+jednej z przerw podleciała do niego koleżanka, zapytała, „czy
+kop w krocze naprawdę tak mocno boli?”. Mal przytaknął.
+Odleciała do swoich koleżanek, wróciła i powiedziała
+„Faktycznie! Sprawdziłam, boli jak cholera!”. Polubili się. I
+lubili się. Miała na imię Nat.</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">	W
+szóstej klasie wraz z przyjacielem krążyli wokół swojego
+apartamentowca. Mal dowiedział się od Mat, że Nat i Mar były u
+niego w mieszkaniu z kilkoma starszymi kolegami. Odbyła się tam
+partia rozbieranego pokera. Było to dość szokujące. Miało to
+miejsce pod koniec ostatniego roku podstawówki. Ostatniego dnia
+podstawówki Mal i Or wypili pierwsze w ich życiu piwo. Potem zjedli
+pizzę. Oświetlało ich słońce, spędzili trochę czasu z
+rówieśnikami i ogólnie było super.  
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm">	W
+wakacje zaczął grać Megica. Gracz z którym się zadawał nauczył
+go podstaw rozgrywki. Mal znał angielski wystarczająco dobrze aby
+zrozumieć tę grę. Jednego dnia wakacji Pav powiedział, że
+chciałby spróbować razem marihuany. Mal zgodził się, następnego
+dnia palili już ze starszymi kolegami, na terenie budynku szkoły.
+Zjarali się jak świnie. Po wakacjach czyhało już gimnazjum. Gdzie
+stracił poczytalność. 
+</p>
+</body>
+</html>
+
+        <script src="https://utteranc.es/client.js"
+        repo="vlepy/vlepy.github.io"
+        issue-term="title"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+	</script>
+      </div>
+    </div>
+    <footer class="site-footer">
+  <div class="links">
+    <div><a href="mailto:mir.lesniak@gmail.com">mir.lesniak@gmail.com</a></div>
+    <div>
+      <a href="https://github.com/vlepy">
+          <span class="icon  icon--github">
+            <svg viewBox="0 0 16 16">
+              <path fill="#828282" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/>
+            </svg>
+          </span>
+        <span class="username">vlepy</span>
+      </a>
+    </div>
+      </div>
+<div class="footer-center"><div class="fb-share-button" data-href="" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fvlepy.github.io%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></div>
+
+     <div class="footer-center"><a href="https://vlepy.github.io/feed.xml"><img src="/assets/images/Rss-feed.svg "width="70vw"></a></div>
+     
+                <div class="footer-center"><a href="/btc.html"><img src="/assets/images/btc.svg" width="70vw"></a></div>
+                
+	<div class="footer-center">
+	  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <input type="hidden" name="cmd" value="_s-xclick">
+        <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----">
+        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+        <img alt="" border="0" src="https://www.paypalobjects.com/pl_PL/i/scr/pixel.gif" width="1" height="1">
+      </form>
+	</div>
+	
+<p>
+</div>
+
+  <div class="text">
+    <div class="footer-right">It happens.</div><p>
+    <div class="footer-right"><div class="license">
+  All rights reserved, copyright 2023.
+</div>
+</div>
+  </div>
+ 
+</footer>
+
+
+
+
+    <script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', function() {
+      navigator.serviceWorker.register('/service-worker.js');
+    });
+  }
+</script>
+
+	<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_EN/sdk.js#xfbml=1&version=v3.2';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script>
+function closeCookieNotice() {
+	const nowDate = new Date();
+	const expireDate = new Date(nowDate.setDate(nowDate.getDate() + 30)).toUTCString();
+	document.cookie = "cookie_notice=0;path=/;expires=" + expireDate + ";";
+	document.getElementById("cookie-notice").style.display = "none";
+};
+document.addEventListener("DOMContentLoaded", function() {
+	const cookie_notice = ('; ' + document.cookie).split('; cookie_notice=').pop().split(';')[0];
+	if (cookie_notice !== "0") {
+		document.getElementById("cookie-notice").style.display = "block";
+	}
+});
+</script>
+  </body>
+</html>
