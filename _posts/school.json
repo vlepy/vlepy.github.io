@@ -1,7 +1,7 @@
 {
   "date": "2023-06-17T06:20:00.000Z",
   "excerpt": "A poem about old times",
-  "html": "<p>Day came wake up<br>\nBreakfast seems fine<br>\nGo right downstairs<br>\nSmoke from the pipe<br>\nThe friends are here<br>\nSo we start marching<br>\nThrough city park<br>\nIt’s time for schooling<br>\nTwo classes pass<br>\nWalk down to toilet<br>\nTime for some grass<br>\nMusic on walkman<br>\nSchool day is done<br>\nGet back to home<br>\nThrough city park<br>\nAnd smoke some more</p>\n",
+  "html": "<p>Day came wake up<br>\nBreakfast seems fine<br>\nGo right downstairs<br>\nSmoke from the pipe<br>\n<br>\nThe friends are here<br>\nSo we start marching<br>\nThrough city park<br>\nIt’s time for schooling<br>\n<br>\nTwo classes pass<br>\nWalk down to toilet<br>\nTime for some grass<br>\nMusic on walkman<br>\n<br>\nSchool day is done<br>\nGet back to home<br>\nThrough city park<br>\nAnd smoke some more</p>\n",
   "layout": "default.njk",
   "tags": ["post","Opowiadanie"],
   "title": "High School"
