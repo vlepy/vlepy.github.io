@@ -1,7 +1,7 @@
 {
   "date": "2023-06-29T01:01:00.000Z",
   "excerpt": "A poem",
-  "html": "<p>i was so happy<br>\nnow in despair<br>\npeople like it<br>\nor they don't care<br>\nfew wish me luck<br>\nmost otherwise<br>\nand because of this<br>\nmy life ain't nice</p>\n",
+  "html": "<p>i was so happy<br>\nnow in despair<br>\npeople do like it<br>\nor they don't care<br>\nfew wish me luck<br>\nmost otherwise<br>\nand because of this<br>\nmy life ain't nice</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Nice"
